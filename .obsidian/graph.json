@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:20_Server  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:10_Estudios  ",
+      "color": {
+        "a": 1,
+        "rgb": 1190882
+      }
+    },
+    {
+      "query": "path:40_Proyectos  ",
+      "color": {
+        "a": 1,
+        "rgb": 1625088
+      }
+    },
+    {
+      "query": "path:00_Sistema/Plantillas  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "file:00_inicio",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:50_Personal/Cosmere/Biblioteca/Personajes  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711927
+      }
+    },
+    {
+      "query": "path:\"50_Personal/Cosmere/Biblioteca/Nacidos de la Bruma\" path:\"50_Personal/Cosmere/Biblioteca/El Archivo de las Tormentas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16743168
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.604166666666667,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 263,
+  "scale": 0.36288736930120874,
+  "close": true
+}
