@@ -1,0 +1,21 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#ff0000",
+      "directory": "10_Estudios/Universidad/Cuatrimestre _Actual"
+    },
+    {
+      "type": "local",
+      "color": "#002aff",
+      "directory": "50_Personal/Turnos medicos"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}

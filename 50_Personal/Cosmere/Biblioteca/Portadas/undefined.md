@@ -1,0 +1,1 @@
+![[The_Emperors_Soul.jpg]]
