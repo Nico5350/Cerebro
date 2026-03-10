@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Bot de discord",
+      "path": "40_Proyectos/03_Terminados/Bot de Discord/Bot de discord.md"
+    },
+    {
+      "basename": "Bitacora Bot Discord",
+      "path": "40_Proyectos/03_Terminados/Bot de Discord/Bitacora Bot Discord.md"
+    },
+    {
+      "basename": "BotDiscordServer",
+      "path": "20_Server/02_Contenedores_Docker/MC_Discord_Bot/BotDiscordServer.md"
+    },
+    {
       "basename": "00_Inicio",
       "path": "00_Sistema/00_Inicio.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Immich",
       "path": "20_Server/02_Contenedores_Docker/Immich/Immich.md"
-    },
-    {
-      "basename": "BotDiscordServer",
-      "path": "20_Server/02_Contenedores_Docker/MC_Discord_Bot/BotDiscordServer.md"
-    },
-    {
-      "basename": "ATM 10 Lite",
-      "path": "20_Server/02_Contenedores_Docker/ATM10 Lite/ATM 10 Lite.md"
-    },
-    {
-      "basename": "Indice estudios",
-      "path": "10_Estudios/Indice estudios.md"
     }
   ],
   "omittedPaths": [],

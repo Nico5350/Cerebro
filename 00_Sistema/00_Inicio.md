@@ -100,4 +100,6 @@
 
 ---
 
+Token GitHub : En notas
+
 _🗓️ Última actualización: {{date}}_

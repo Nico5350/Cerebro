@@ -18,5 +18,6 @@
   "obsidian-markmind",
   "obsidian-binary-file-manager-plugin",
   "obsidian-annotator",
-  "calendar"
+  "calendar",
+  "obsidian-git"
 ]
