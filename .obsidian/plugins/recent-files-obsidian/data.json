@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sin título",
+      "path": "60_Mint/Sin título.md"
+    },
+    {
       "basename": "Bot de discord",
       "path": "40_Proyectos/03_Terminados/Bot de Discord/Bot de discord.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Danzante De Filo",
       "path": "50_Personal/01_Cosmere/Biblioteca/Tomos unicos/Danzante De Filo.md"
-    },
-    {
-      "basename": "Immich",
-      "path": "20_Server/02_Contenedores_Docker/Immich/Immich.md"
     }
   ],
   "omittedPaths": [],
