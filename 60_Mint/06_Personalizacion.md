@@ -1,4 +1,4 @@
-# 🎨 Personalización
+#  Personalización
 
 #mint #temas #personalizacion
 
