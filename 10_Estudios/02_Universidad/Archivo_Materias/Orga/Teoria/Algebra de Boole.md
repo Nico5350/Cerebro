@@ -13,4 +13,4 @@ fecha_estudio: 2026-02-23
 
 ![[U42 Álgebra de Boole_V2025.pdf]]
 ---
-[[Orga]]
+[[Organizacion del Computador]]

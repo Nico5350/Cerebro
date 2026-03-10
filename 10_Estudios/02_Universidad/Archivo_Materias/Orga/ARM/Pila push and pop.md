@@ -14,4 +14,4 @@ fecha_estudio: 2026-02-23
 ![[ARM_Pila_push_pop.pdf]]
 ---
 # Conexión para el Gráfico Visual
-[[Orga]]
+[[Organizacion del Computador]]

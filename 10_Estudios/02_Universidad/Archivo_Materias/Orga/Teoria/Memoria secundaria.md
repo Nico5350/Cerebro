@@ -12,4 +12,4 @@ fecha_estudio: 2026-02-23
 > [!INFO] Archivo Original
 ![[2_MemoriaSecundaria_2022_2C.pdf]]
 ---
-[[Orga]]
+[[Organizacion del Computador]]

@@ -14,4 +14,4 @@ fecha_estudio: 2026-02-23
 ![[U2_Modelo de Von Neumann 2024_2C.pdf]]
 
 ---
-[[Orga]]
+[[Organizacion del Computador]]

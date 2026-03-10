@@ -19,4 +19,4 @@ fecha_estudio: 2026-02-23
 
 ---
 
-[[Orga]]
+[[Organizacion del Computador]]

@@ -14,4 +14,4 @@ fecha_estudio: 2026-02-23
 ![[Estructuras de control de flujo_subrutinas.pdf]]
 ---
 # Conexión para el Gráfico Visual
-[[Orga]]
+[[Organizacion del Computador]]

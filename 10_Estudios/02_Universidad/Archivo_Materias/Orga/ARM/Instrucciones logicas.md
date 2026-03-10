@@ -14,4 +14,4 @@ fecha_estudio: 2026-02-23
 ![[ARMInstrucciones_logicas.pdf]]
 ---
 # Conexión para el Gráfico Visual
-[[Orga]]
+[[Organizacion del Computador]]

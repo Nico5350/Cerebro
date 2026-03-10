@@ -14,4 +14,4 @@ fecha_estudio: 2026-02-23
 ![[3-Representación de texto_v2.pdf]]
 
 ---
-[[Orga]]
+[[Organizacion del Computador]]

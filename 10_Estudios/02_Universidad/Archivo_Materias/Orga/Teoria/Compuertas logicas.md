@@ -13,4 +13,4 @@ fecha_estudio: 2026-02-23
 
 ![[Unidad 4 Compuertas Lógicas_V24.pdf]]
 ---
-[[Orga]]
+[[Organizacion del Computador]]

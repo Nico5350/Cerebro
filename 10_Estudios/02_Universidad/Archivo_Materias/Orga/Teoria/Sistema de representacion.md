@@ -18,4 +18,4 @@ fecha_estudio: 2026-02-23
 ![[tabla ascii.pdf]]
 
 ---
-[[Orga]]
+[[Organizacion del Computador]]

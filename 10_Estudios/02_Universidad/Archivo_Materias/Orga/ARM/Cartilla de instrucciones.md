@@ -10,4 +10,4 @@ fecha_estudio: 2026-02-23
 ---
 ---
 # Conexión para el Gráfico Visual
-[[Orga]]
+[[Organizacion del Computador]]

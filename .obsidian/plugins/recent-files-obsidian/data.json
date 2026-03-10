@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "00_Inicio",
+      "path": "00_Sistema/00_Inicio.md"
+    },
+    {
+      "basename": "Biblioteca",
+      "path": "50_Personal/01_Cosmere/Biblioteca/Biblioteca.md"
+    },
+    {
+      "basename": "Bitacora Bot Discord",
+      "path": "40_Proyectos/03_Terminados/Bot de Discord/Bitacora Bot Discord.md"
+    },
+    {
+      "basename": "Bot de discord",
+      "path": "40_Proyectos/03_Terminados/Bot de Discord/Bot de discord.md"
+    },
+    {
       "basename": "06_Personalizacion",
       "path": "60_Mint/06_Personalizacion.md"
     },
@@ -9,20 +25,8 @@
       "path": "60_Mint/07_git obsidian.md"
     },
     {
-      "basename": "Bot de discord",
-      "path": "40_Proyectos/03_Terminados/Bot de Discord/Bot de discord.md"
-    },
-    {
-      "basename": "Bitacora Bot Discord",
-      "path": "40_Proyectos/03_Terminados/Bot de Discord/Bitacora Bot Discord.md"
-    },
-    {
       "basename": "BotDiscordServer",
       "path": "20_Server/02_Contenedores_Docker/MC_Discord_Bot/BotDiscordServer.md"
-    },
-    {
-      "basename": "00_Inicio",
-      "path": "00_Sistema/00_Inicio.md"
     },
     {
       "basename": "00_Index",
@@ -51,10 +55,6 @@
     {
       "basename": "03_Atajos",
       "path": "60_Mint/03_Atajos.md"
-    },
-    {
-      "basename": "Biblioteca",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Biblioteca.md"
     },
     {
       "basename": "Hoid",
@@ -187,18 +187,6 @@
     {
       "basename": "Elend Venture",
       "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Elend Venture.md"
-    },
-    {
-      "basename": "Archivo 1 - El camino de los Reyes",
-      "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 1 - El camino de los Reyes.md"
-    },
-    {
-      "basename": "plantilla_personaje",
-      "path": "00_Sistema/Plantillas/plantilla_personaje.md"
-    },
-    {
-      "basename": "Danzante De Filo",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Tomos unicos/Danzante De Filo.md"
     }
   ],
   "omittedPaths": [],

@@ -19,5 +19,6 @@
   "obsidian-binary-file-manager-plugin",
   "obsidian-annotator",
   "calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "copilot"
 ]

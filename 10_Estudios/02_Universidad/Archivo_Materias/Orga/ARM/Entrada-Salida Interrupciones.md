@@ -14,4 +14,4 @@ fecha_estudio: 2026-02-23
 ![[Presentación Interrupciones con arhivos 2024 - v1.pdf]]
 ---
 # Conexión para el Gráfico Visual
-[[Orga]]
+[[Organizacion del Computador]]

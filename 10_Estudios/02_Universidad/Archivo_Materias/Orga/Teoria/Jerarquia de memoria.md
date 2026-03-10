@@ -14,4 +14,4 @@ fecha_estudio: 2026-02-23
 ![[U2 Memorias MPpal Jerarquía Tipos 2025.pdf]]
 
 ---
-[[Orga]]
+[[Organizacion del Computador]]

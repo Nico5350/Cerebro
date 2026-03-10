@@ -18,4 +18,4 @@ fecha_estudio: 2026-02-23
 ![[SIST_NUMteorica OCTAL HEXA CV3.pdf]]
 
 ---
-[[Orga]]
+[[Organizacion del Computador]]
