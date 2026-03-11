@@ -1,0 +1,17 @@
+---
+epoch: 1773180117347
+modelKey: "google/gemini-2.5-flash|openrouterai"
+
+
+
+
+tags:
+  - copilot-conversation
+---
+
+**user**: Analiza todas las carpetas y busca en que podrian mejorar
+[Timestamp: 2026/03/10 19:01:57]
+
+**ai**: 
+<errorChunk>Model request failed: API key is not provided for the model: google/gemini-2.5-flash|openrouterai.</errorChunk>
+[Timestamp: 2026/03/10 19:01:57]

@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "04_LibroYa - Bitácora de Errores",
+      "path": "40_Proyectos/01_Activos/LibroYa/04_LibroYa - Bitácora de Errores.md"
+    },
+    {
+      "basename": "01_LibroYa RoadMap",
+      "path": "40_Proyectos/01_Activos/LibroYa/01_LibroYa RoadMap.md"
+    },
+    {
+      "basename": "03_LibroYa - Frontend & UI",
+      "path": "40_Proyectos/01_Activos/LibroYa/03_LibroYa - Frontend & UI.md"
+    },
+    {
+      "basename": "02_LibroYa - Backend & Scraping",
+      "path": "40_Proyectos/01_Activos/LibroYa/02_LibroYa - Backend & Scraping.md"
+    },
+    {
+      "basename": "07_git obsidian",
+      "path": "60_Mint/07_git obsidian.md"
+    },
+    {
       "basename": "00_Inicio",
       "path": "00_Sistema/00_Inicio.md"
     },
@@ -19,10 +39,6 @@
     {
       "basename": "06_Personalizacion",
       "path": "60_Mint/06_Personalizacion.md"
-    },
-    {
-      "basename": "07_git obsidian",
-      "path": "60_Mint/07_git obsidian.md"
     },
     {
       "basename": "BotDiscordServer",
@@ -183,10 +199,6 @@
     {
       "basename": "Lord Legislador",
       "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Lord Legislador.md"
-    },
-    {
-      "basename": "Elend Venture",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Elend Venture.md"
     }
   ],
   "omittedPaths": [],
