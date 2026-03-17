@@ -32,6 +32,8 @@ tags:
 docker compose up -d --build (Rearmar/actualizar el bot)
 docker logs -f mc_discord_bot(Ver los logs)
 docker logs --tail 20 mc_discord_bot (Ultimas 20 lineas de logs)
+docker restart mc_discord_bot Reiniciar bot por si se cae
+
 ```
 
 ---

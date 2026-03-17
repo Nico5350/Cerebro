@@ -1,0 +1,237 @@
+/* =========================================
+   TEMA: CEREBRO DIGITAL - SYSADMIN EDITION
+   ========================================= */
+
+/* --- 1. JERARQUÍA DE TÍTULOS (H1 a H6) --- */
+/* H1: Rojo brillante con efecto de resplandor (Glow) para proyectos principales */
+.markdown-rendered h1, .cm-header-1 {
+    color: #FF1744 !important;
+    text-shadow: 0 0 8px rgba(255, 23, 68, 0.4) !important;
+    border-bottom: 2px solid #4a0000 !important;
+    padding-bottom: 5px;
+    font-weight: 800 !important;
+}
+
+/* H2: Rojo sólido para secciones importantes */
+.markdown-rendered h2, .cm-header-2 { 
+    color: #E53935 !important; 
+}
+
+/* H3: Rojo oscuro/carmesí para sub-secciones */
+.markdown-rendered h3, .cm-header-3 { 
+    color: #C62828 !important; 
+}
+
+/* H4 a H6: Escala de grises técnicos para no saturar la vista */
+.markdown-rendered h4, .cm-header-4 { color: #B0BEC5 !important; }
+.markdown-rendered h5, .cm-header-5 { color: #78909C !important; }
+.markdown-rendered h6, .cm-header-6 { color: #546E7A !important; }
+
+
+/* --- 2. CURSOR Y LÍNEA ACTIVA (Estilo Terminal) --- */
+/* Cursor rojo brillante que resalta en el fondo negro */
+.cm-cursor {
+    border-left: 3px solid #FF1744 !important;
+    box-shadow: 0 0 5px #FF1744 !important;
+}
+
+/* Fondo ultra sutil en la línea que estás editando */
+.cm-activeLine { 
+    background-color: rgba(255, 23, 68, 0.05) !important; 
+}
+
+
+/* --- 3. ÉNFASIS, ENLACES Y ETIQUETAS --- */
+/* Las negritas saltan a la vista en un rojo claro */
+.markdown-rendered strong, .cm-strong { 
+    color: #FF5252 !important; 
+}
+
+/* Los enlaces internos (tus notas) en rojo con transición */
+.markdown-rendered a, .cm-hmd-internal-link {
+    color: #FF1744 !important;
+    text-decoration: none !important;
+    transition: text-shadow 0.2s ease;
+}
+
+.markdown-rendered a:hover, .cm-hmd-internal-link:hover {
+    text-shadow: 0 0 8px rgba(255, 23, 68, 0.8) !important;
+}
+
+/* Las etiquetas (Tags) con fondo oscuro y borde rojo */
+.tag {
+    background-color: #210000 !important;
+    color: #FF5252 !important;
+    border: 1px solid #D32F2F !important;
+}
+
+
+/* --- 4. CHECKBOXES (Tareas) --- */
+/* Tareas completadas en rojo en lugar del verde aburrido */
+input[type=checkbox]:checked {
+    background-color: #D32F2F !important;
+    border-color: #FF1744 !important;
+    filter: drop-shadow(0px 0px 2px rgba(255,23,68,0.5));
+}
+
+
+/* --- 5. BLOCKQUOTES (Citas y Callouts base) --- */
+/* Línea lateral roja y fondo levemente rojizo */
+.markdown-rendered blockquote {
+    border-left: 4px solid #D32F2F !important;
+    background-color: rgba(211, 47, 47, 0.05) !important;
+    color: #CFD8DC !important;
+}
+/* --- 6. BLOQUES DE CÓDIGO (Para Python, TypeScript, ARM, etc.) --- */
+/* Código en línea (ejemplo: `variable_name`) */
+.markdown-rendered code {
+    color: #FF5252 !important;
+    background-color: #1a0000 !important;
+    border: 1px solid #4a0000 !important;
+    border-radius: 4px;
+    padding: 2px 5px;
+}
+
+/* Bloques de código grandes (Los que llevan ```) */
+.markdown-rendered pre {
+    background-color: #050000 !important; /* Negro ultra oscuro */
+    border: 1px solid #330000 !important;
+    border-left: 3px solid #D32F2F !important; /* Línea roja lateral */
+    box-shadow: inset 0 0 10px rgba(0,0,0, 0.8) !important;
+}
+
+
+/* --- 7. EXPLORADOR DE ARCHIVOS (Barra Lateral Izquierda) --- */
+/* Fondo general de la barra lateral */
+.workspace-split.mod-left-split .workspace-leaf-content {
+    background-color: #000000 !important;
+    border-right: 1px solid #1a0000 !important;
+}
+
+/* Color del texto de las carpetas y archivos por defecto */
+.nav-file-title, .nav-folder-title {
+    color: #90A4AE !important; 
+}
+
+/* Archivo o carpeta al pasar el mouse por encima (Hover) */
+.nav-file-title:hover, .nav-folder-title:hover {
+    background-color: rgba(211, 47, 47, 0.15) !important;
+    color: #FF5252 !important;
+}
+
+/* Archivo ACTIVO (La nota que estás leyendo en este momento) */
+.nav-file-title.is-active {
+    background-color: rgba(211, 47, 47, 0.25) !important;
+    color: #FF1744 !important;
+    border-left: 3px solid #FF1744 !important;
+    font-weight: 800 !important;
+    border-radius: 0 4px 4px 0 !important;
+}
+/* --- 8. PESTAÑAS SUPERIORES (Tabs) CORREGIDO --- */
+/* Apuntar SOLO al panel central (.mod-root) y no a los laterales */
+.workspace-split.mod-root .workspace-tab-header-container {
+    background-color: #000000 !important;
+}
+
+/* Pestañas inactivas del centro */
+.workspace-split.mod-root .workspace-tab-header {
+    background-color: #050000 !important;
+    color: #546E7A !important;
+    border-bottom: 1px solid #1a0000 !important;
+    transition: background-color 0.2s ease;
+}
+
+/* Pestaña ACTIVA del centro */
+.workspace-split.mod-root .workspace-tab-header.is-active {
+    background-color: rgba(211, 47, 47, 0.05) !important;
+    color: #FF1744 !important;
+    border-top: 2px solid #FF1744 !important;
+    border-bottom: 1px solid transparent !important;
+    font-weight: 800 !important;
+}
+
+/* Restaurar el fondo transparente normal para las pestañas laterales (Izquierda y Derecha) */
+.workspace-split.mod-left-split .workspace-tab-header-container,
+.workspace-split.mod-right-split .workspace-tab-header-container {
+    background-color: transparent !important;
+}
+/* --- 9. MENÚ DE COMANDOS (Ctrl+P / Ctrl+O) --- */
+/* La ventana flotante principal */
+.prompt {
+    background-color: #000000 !important;
+    border: 1px solid #D32F2F !important;
+    box-shadow: 0 0 30px rgba(211, 47, 47, 0.25) !important;
+    border-radius: 8px !important;
+}
+
+/* La barra donde escribís */
+.prompt-input {
+    color: #FF1744 !important;
+    background-color: #050000 !important;
+    border-bottom: 1px solid #4a0000 !important;
+}
+
+/* El elemento que estás seleccionando en la lista */
+.suggestion-item.is-selected {
+    background-color: rgba(211, 47, 47, 0.2) !important;
+    border-left: 3px solid #FF1744 !important;
+    color: #FFFFFF !important;
+}
+
+/* La letra exacta que coincide con tu búsqueda (resaltada) */
+.suggestion-highlight {
+    color: #FF1744 !important;
+    font-weight: bold;
+    text-shadow: 0 0 5px rgba(255, 23, 68, 0.5) !important;
+}
+
+
+/* --- 10. BARRAS DE DESPLAZAMIENTO (Scrollbars) --- */
+/* Hacerlas más finas y elegantes */
+::-webkit-scrollbar {
+    width: 6px !important;
+    height: 6px !important;
+}
+
+/* El fondo por donde corre la barra (transparente) */
+::-webkit-scrollbar-track {
+    background-color: transparent !important;
+}
+
+/* La barra en sí (Rojo muy oscuro por defecto) */
+::-webkit-scrollbar-thumb {
+    background-color: #210000 !important;
+    border-radius: 10px !important;
+}
+
+/* La barra cuando le pasás el mouse (Se enciende en rojo) */
+::-webkit-scrollbar-thumb:hover {
+    background-color: #D32F2F !important;
+}
+
+
+/* --- 11. BARRA LATERAL DERECHA (Calendario y Esquema) --- */
+/* Igualar el fondo al de la barra izquierda */
+.workspace-split.mod-right-split .workspace-leaf-content {
+    background-color: #000000 !important;
+    border-left: 1px solid #1a0000 !important;
+}
+/* --- FIX: Ocultar pestañas verticales del panel izquierdo --- */
+.workspace-split.mod-left-split .workspace-tab-header-container {
+    display: none !important;
+}
+/* --- FIX: Pestaña vertical colapsada --- */
+.workspace-tab-header-container-inner {
+    flex-direction: row !important;
+}
+
+.workspace-tabs.mod-top .workspace-tab-header-container {
+    flex-direction: row !important;
+    writing-mode: horizontal-tb !important;
+}
+
+/* Ocultar tabs verticales residuales */
+.mod-left-split .workspace-tab-header,
+.mod-right-split .workspace-tab-header {
+    display: none !important;
+}

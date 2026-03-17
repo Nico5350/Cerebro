@@ -1,4 +1,15 @@
 {
   "catppuccin-interface-styles@@ctp-bold-folder-title": true,
-  "catppuccin-icon-styles@@ctp-icon-hide": true
+  "catppuccin-icon-styles@@ctp-icon-hide": true,
+  "anuppuccin-theme-settings@@ctp-custom-base@@light": "#000000",
+  "anuppuccin-theme-settings@@ctp-custom-base@@dark": "#000000",
+  "anuppuccin-theme-settings@@ctp-custom-red@@light": "#D32F2F",
+  "anuppuccin-theme-settings@@ctp-custom-red@@dark": "#D32F2F",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-red",
+  "anuppuccin-theme-settings@@anp-canvas-dark-bg": true,
+  "anuppuccin-theme-settings@@ctp-custom-subtext1@@light": "#FFFFFF",
+  "anuppuccin-theme-settings@@anp-cursor": "pointer",
+  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
+  "anuppuccin-theme-settings@@anp-header-color-toggle": true,
+  "anuppuccin-theme-settings@@anp-header-margin-toggle": false
 }

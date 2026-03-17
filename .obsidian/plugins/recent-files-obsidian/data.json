@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "09-03-2026 (Multitarea y Multiprogamacion)",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Apuntes/09-03-2026 (Multitarea y Multiprogamacion).md"
+    },
+    {
+      "basename": "16-03-2026 (Procesos, fork e IPC)",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Apuntes/16-03-2026 (Procesos, fork e IPC).md"
+    },
+    {
+      "basename": "07-03-2026",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Apuntes/07-03-2026.md"
+    },
+    {
+      "basename": "00_Apunte Procesos",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/00_Apunte Procesos.pdf"
+    },
+    {
+      "basename": "01_U3 Procesos",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/01_U3 Procesos.pdf"
+    },
+    {
+      "basename": "00 Links Videos",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/00 Links Videos.md"
+    },
+    {
+      "basename": "Codigo Godot",
+      "path": "30_Código/01_Godot/Codigo Godot.md"
+    },
+    {
+      "basename": "01 El imperio Final",
+      "path": "50_Personal/01_Cosmere/Biblioteca/Nacidos de la Bruma/01 El imperio Final.md"
+    },
+    {
+      "basename": "Archivo 3 - Juramentada",
+      "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 3 - Juramentada.md"
+    },
+    {
+      "basename": "Archivo 2 - Palabras Radiantes",
+      "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 2 - Palabras Radiantes.md"
+    },
+    {
+      "basename": "Entregable Acumuladores Booleanos",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Entregables-Actividades/Entregable Acumuladores Booleanos.md"
+    },
+    {
+      "basename": "00 - Recorrido de matrices",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Bibiliografia progra2/00 - Recorrido de matrices.pdf"
+    },
+    {
+      "basename": "01 - Acumuladores Booleanos",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Bibiliografia progra2/01 - Acumuladores Booleanos.pdf"
+    },
+    {
+      "basename": "Programación II",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Programación II.md"
+    },
+    {
+      "basename": "Bot de discord",
+      "path": "40_Proyectos/03_Terminados/Bot de Discord/Bot de discord.md"
+    },
+    {
+      "basename": "Bitacora Bot Discord",
+      "path": "40_Proyectos/03_Terminados/Bot de Discord/Bitacora Bot Discord.md"
+    },
+    {
+      "basename": "BotDiscordServer",
+      "path": "20_Server/02_Contenedores_Docker/MC_Discord_Bot/BotDiscordServer.md"
+    },
+    {
       "basename": "04_LibroYa - Bitácora de Errores",
       "path": "40_Proyectos/01_Activos/LibroYa/04_LibroYa - Bitácora de Errores.md"
     },
@@ -29,20 +97,8 @@
       "path": "50_Personal/01_Cosmere/Biblioteca/Biblioteca.md"
     },
     {
-      "basename": "Bitacora Bot Discord",
-      "path": "40_Proyectos/03_Terminados/Bot de Discord/Bitacora Bot Discord.md"
-    },
-    {
-      "basename": "Bot de discord",
-      "path": "40_Proyectos/03_Terminados/Bot de Discord/Bot de discord.md"
-    },
-    {
       "basename": "06_Personalizacion",
       "path": "60_Mint/06_Personalizacion.md"
-    },
-    {
-      "basename": "BotDiscordServer",
-      "path": "20_Server/02_Contenedores_Docker/MC_Discord_Bot/BotDiscordServer.md"
     },
     {
       "basename": "00_Index",
@@ -133,72 +189,12 @@
       "path": "50_Personal/01_Cosmere/Biblioteca/Nacidos de la Bruma/02 El pozo de ascension.md"
     },
     {
-      "basename": "01 El imperio Final",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Nacidos de la Bruma/01 El imperio Final.md"
-    },
-    {
       "basename": "Feruquimia",
       "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/Feruquimia.md"
     },
     {
       "basename": "Falsificacion",
       "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/Falsificacion.md"
-    },
-    {
-      "basename": "Despertar",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/Despertar.md"
-    },
-    {
-      "basename": "AonDor",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/AonDor.md"
-    },
-    {
-      "basename": "Alomancia",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/Alomancia.md"
-    },
-    {
-      "basename": "Plantilla lectura pdf",
-      "path": "00_Sistema/Plantillas/Plantilla lectura pdf.md"
-    },
-    {
-      "basename": "Dilaf",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Dilaf.md"
-    },
-    {
-      "basename": "Gaotona",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Gaotona.md"
-    },
-    {
-      "basename": "Sangre Nocturna",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Sangre Nocturna.md"
-    },
-    {
-      "basename": "TenSoon",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/TenSoon.md"
-    },
-    {
-      "basename": "Tindwyl",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Tindwyl.md"
-    },
-    {
-      "basename": "Galladon",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Galladon.md"
-    },
-    {
-      "basename": "Hrathen",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Hrathen.md"
-    },
-    {
-      "basename": "Fantasma",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Fantasma.md"
-    },
-    {
-      "basename": "Zane",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Zane.md"
-    },
-    {
-      "basename": "Lord Legislador",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Lord Legislador.md"
     }
   ],
   "omittedPaths": [],

@@ -1,3 +1,9 @@
 {
-  "cssTheme": "Catppuccin"
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#9b2c2c",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "rojo_sangre"
+  ],
+  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono"
 }
