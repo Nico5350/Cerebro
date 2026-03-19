@@ -1,14 +1,12 @@
 ---
 tipo: evento
 subtipo: parcial
-title: "Parcial: Parciales Programación II"
+title: "Parcial: 2do Parciales Programación II"
 allDay: true
 date: 2026-02-26
 materia: Programación I
-estado_estudio: 
-- 🔴 Pendiente 
-- 🟡 Repasando 
-- 🟢 Listo
+estado_estudio:
+  - 🔴 Pendiente
 tags:
   - universidad
   - examen
