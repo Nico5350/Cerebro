@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "01_Desayuno",
+      "path": "50_Personal/03_FreeFlotadores/01_Desayuno.md"
+    },
+    {
+      "basename": "05_Colaciones",
+      "path": "50_Personal/03_FreeFlotadores/05_Colaciones.md"
+    },
+    {
+      "basename": "04_Cena",
+      "path": "50_Personal/03_FreeFlotadores/04_Cena.md"
+    },
+    {
+      "basename": "02_Almuerzo",
+      "path": "50_Personal/03_FreeFlotadores/02_Almuerzo.md"
+    },
+    {
+      "basename": "03_Merienda",
+      "path": "50_Personal/03_FreeFlotadores/03_Merienda.md"
+    },
+    {
       "basename": "00_Inicio",
       "path": "00_Sistema/00_Inicio.md"
     },
@@ -175,30 +195,6 @@
     {
       "basename": "03_Atajos",
       "path": "60_Mint/03_Atajos.md"
-    },
-    {
-      "basename": "Hoid",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Hoid.md"
-    },
-    {
-      "basename": "Vin",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Vin.md"
-    },
-    {
-      "basename": "El aliento de los dioses",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Tomos unicos/El aliento de los dioses.md"
-    },
-    {
-      "basename": "Vasher",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Vasher.md"
-    },
-    {
-      "basename": "Vivenna",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Vivenna.md"
-    },
-    {
-      "basename": "Sondeluz el Audaz",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Sondeluz el Audaz.md"
     }
   ],
   "omittedPaths": [],
