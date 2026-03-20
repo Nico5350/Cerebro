@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "00_Inicio",
+      "path": "00_Sistema/00_Inicio.md"
+    },
+    {
+      "basename": "Bitacora_Servidor",
+      "path": "00_Sistema/Plantillas/Bitacora_Servidor.md"
+    },
+    {
       "basename": "Informacion proyecto",
       "path": "40_Proyectos/01_Activos/Sistema de gestion RRHH/Informacion proyecto.md"
     },
@@ -133,10 +141,6 @@
       "path": "60_Mint/07_git obsidian.md"
     },
     {
-      "basename": "00_Inicio",
-      "path": "00_Sistema/00_Inicio.md"
-    },
-    {
       "basename": "Biblioteca",
       "path": "50_Personal/01_Cosmere/Biblioteca/Biblioteca.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sondeluz el Audaz",
       "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Sondeluz el Audaz.md"
-    },
-    {
-      "basename": "Raoden",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Raoden.md"
     }
   ],
   "omittedPaths": [],
