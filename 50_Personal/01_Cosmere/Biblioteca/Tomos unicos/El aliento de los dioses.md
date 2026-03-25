@@ -17,8 +17,8 @@ fechas_inicio:
 
 
 # 📚 Libro: El aliento de los dioses
-![[el-aliento-de-los-dioses-edicion-revisada.jpg]]
-![[El aliento de los dioses 1.jpeg]]
+![[el aliendo de los dioses.jpg]]
+
 
 
 

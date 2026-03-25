@@ -4,15 +4,16 @@ autor: Brandon Sanderson
 universo: Cosmere
 saga: Archivo de las tormentas
 estado:
-  - Pendiente
-puntuacion:
-fechas_inicio:
-fecha_terminado:
+  - ✅ Terminado
+puntuacion: "9"
+fechas_inicio: 25/02/2026
+fecha_terminado: 25/03/2026
 tags:
   - lectura
 ---
 # 📚 Libro: Archivo 1 - El camino de los Reyes
 
+![[el camino de los reyes.jpg]]
 > [!ABSTRACT] Sinopsis Personal
 > ¿De qué trata este libro y qué me pareció?
 
