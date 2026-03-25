@@ -43,22 +43,29 @@
       }
     },
     {
-      "query": "path:50_Personal/Cosmere/Biblioteca/Personajes  ",
+      "query": "path:\"50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas\"  ",
       "color": {
         "a": 1,
-        "rgb": 16711927
+        "rgb": 16776960
       }
     },
     {
-      "query": "path:\"50_Personal/Cosmere/Biblioteca/Nacidos de la Bruma\" path:\"50_Personal/Cosmere/Biblioteca/El Archivo de las Tormentas\"  ",
+      "query": "path:50_Personal/01_Cosmere/Biblioteca/Roshar  ",
       "color": {
         "a": 1,
-        "rgb": 16743168
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
       }
     }
   ],
   "collapse-display": true,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
@@ -67,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 263,
-  "scale": 0.36288736930120874,
+  "scale": 0.13168724279835278,
   "close": true
 }
