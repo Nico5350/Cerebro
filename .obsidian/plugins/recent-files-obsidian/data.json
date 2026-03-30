@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "02-Clase complejidad",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Bibiliografia progra2/Complejidad/02-Clase complejidad.pdf"
+    },
+    {
+      "basename": "01-Complejidad-introducción y conteo de instrucciones",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Bibiliografia progra2/Complejidad/01-Complejidad-introducción y conteo de instrucciones.pdf"
+    },
+    {
+      "basename": "04-Complejidad-Burbujeo-Para la clase",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Bibiliografia progra2/Complejidad/04-Complejidad-Burbujeo-Para la clase.pdf"
+    },
+    {
+      "basename": "03-Ejemplos de algebra de ordenes",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Bibiliografia progra2/Complejidad/03-Ejemplos de algebra de ordenes.pdf"
+    },
+    {
+      "basename": "Entregable complejidad resolucion",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Entregables-Actividades/Entregable complejidad resolucion.md"
+    },
+    {
+      "basename": "Entregable Complejidad PDF",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Entregables-Actividades/Entregable Complejidad PDF.pdf"
+    },
+    {
+      "basename": "Entregable Acumuladores Booleanos",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Entregables-Actividades/Entregable Acumuladores Booleanos.md"
+    },
+    {
+      "basename": "07_git obsidian",
+      "path": "60_Mint/07_git obsidian.md"
+    },
+    {
+      "basename": "Archivo 1 - El camino de los Reyes",
+      "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 1 - El camino de los Reyes.md"
+    },
+    {
       "basename": "U4_ Apunte Comunicacion Interprocesos",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/U4_ Apunte Comunicacion Interprocesos.pdf"
     },
@@ -105,10 +141,6 @@
       "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Hoid.md"
     },
     {
-      "basename": "Archivo 1 - El camino de los Reyes",
-      "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 1 - El camino de los Reyes.md"
-    },
-    {
       "basename": "Mundo Roshar",
       "path": "50_Personal/01_Cosmere/Biblioteca/Mundo Roshar.canvas"
     },
@@ -163,42 +195,6 @@
     {
       "basename": "Guerra de la Venganza",
       "path": "50_Personal/01_Cosmere/Biblioteca/Roshar/Notas canva/Guerra de la Venganza.md"
-    },
-    {
-      "basename": "Crem",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Roshar/Notas canva/Crem.md"
-    },
-    {
-      "basename": "Flora Roshariana",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Roshar/Notas canva/Flora Roshariana.md"
-    },
-    {
-      "basename": "Fauna Roshariana",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Roshar/Notas canva/Fauna Roshariana.md"
-    },
-    {
-      "basename": "Shinovar",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Roshar/Notas canva/Shinovar.md"
-    },
-    {
-      "basename": "undefined",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Portadas/undefined.md"
-    },
-    {
-      "basename": "Falsificacion",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/Falsificacion.md"
-    },
-    {
-      "basename": "Drawing 2026-03-25 14.56.46.excalidraw",
-      "path": "Excalidraw/Drawing 2026-03-25 14.56.46.excalidraw.md"
-    },
-    {
-      "basename": "Adolin",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Adolin.md"
-    },
-    {
-      "basename": "Szeth hijo Neturo",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Szeth hijo Neturo.md"
     }
   ],
   "omittedPaths": [],
