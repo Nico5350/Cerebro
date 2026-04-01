@@ -1,23 +1,19 @@
----
-tags: [logica, proposicional, fbf, tablas_de_verdad]
----
-# Lógica Proposicional
 
-## Definiciones Clave
-* [cite_start]**Proposición:** Es una afirmación que es verdadera ($\mathbb{V}$) o falsa ($\mathbb{F}$), pero no ambas a la vez [cite: 58-59].
-* [cite_start]**Fórmula Bien Formada (fbf):** Se construye con símbolos de verdad, letras proposicionales, conectivos y paréntesis [cite: 116-129].
+# Fundamentos de Lógica Proposicional
 
-## Operadores y Jerarquía
-[cite_start]El orden en el que se resuelven las expresiones sin paréntesis es el siguiente (de mayor a menor prioridad) [cite: 160-164]:
-1. Negación ($\neg$)
-2. Conjunción ($\wedge$)
-3. Disyunción ($\vee$)
-4. Implicación ($\Rightarrow$)
-5. Bicondicional ($\Leftrightarrow$)
+## Definiciones
+- [cite_start] **Proposición:** Es una afirmación que es verdadera o falsa, pero no ambas a la vez[cite: 59]. [cite_start]Se denotan habitualmente con letras mayúsculas como $P, Q, R$[cite: 69].
+- [cite_start] **Fórmula Bien Formada (fbf):** Es una expresión que sigue las reglas sintácticas: puede ser un símbolo de verdad ($\mathbb{V}, \mathbb{F}$), una letra proposicional, la negación de una fbf, o la combinación de fbf mediante conectivos ($\wedge, \vee, \Rightarrow$) y paréntesis [cite: 122-129].
 
-[cite_start]*Nota:* Si el mismo operador aparece más de una vez seguida, se evalúa primero el de más a la izquierda[cite: 171].
+## Jerarquía de los Conectivos
+[cite_start] Determina el orden de evaluación en ausencia de paréntesis [cite: 159-160]:
+1. [cite_start] **$\neg$ (Negación):** Evaluar primero[cite: 161].
+2. [cite_start]**$\wedge$ (Conjunción)**[cite: 162].
+3. [cite_start]**$\vee$ (Disyunción)**[cite: 163].
+4. [cite_start]**$\Rightarrow$ / $\Leftrightarrow$ (Condicional / Bicondicional):** Evaluar último[cite: 164].
+[cite_start]*Nota: Si aparece el mismo operador repetido, se evalúa de izquierda a derecha[cite: 171].*
 
-## Clasificación de Fórmulas
-* [cite_start]**Tautología:** Todos los valores de la tabla de verdad son verdaderos [cite: 189-190].
-* [cite_start]**Contradicción:** Todos los valores son falsos [cite: 191-192].
-* [cite_start]**Contingencia:** Tiene valores tanto verdaderos como falsos[cite: 193].
+## Clasificación
+- [cite_start]**Tautología:** La fórmula es verdadera para todos los posibles valores de verdad de sus componentes [cite: 189-190].
+- [cite_start]**Contradicción:** La fórmula es siempre falsa [cite: 191-192].
+- [cite_start]**Contingencia:** La fórmula presenta valores tanto verdaderos como falsos en su tabla de verdad[cite: 193].

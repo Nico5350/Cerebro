@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "00- Logica Proposicional Basica",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/00- Logica Proposicional Basica.md"
+      "basename": "06- Forma normal Prenexa (FNP)",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/06- Forma normal Prenexa (FNP).md"
     },
     {
-      "basename": "03- Renombramiento de Variables",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/03- Renombramiento de Variables.md"
+      "basename": "05- Interpretacion y Validez",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/05- Interpretacion y Validez.md"
+    },
+    {
+      "basename": "04- Logica de Predicados",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/04- Logica de Predicados.md"
+    },
+    {
+      "basename": "03- Formas Normales Proposiconales",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/03- Formas Normales Proposiconales.md"
+    },
+    {
+      "basename": "01-Equivalencias Logicas",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/01-Equivalencias Logicas.md"
+    },
+    {
+      "basename": "00- Logica Proposicional Basica",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/00- Logica Proposicional Basica.md"
     },
     {
       "basename": "Parcial Lógica y Teoría de Números II",
@@ -15,10 +31,6 @@
     {
       "basename": "Lógica y Teoría de Números",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/Lógica y Teoría de Números.md"
-    },
-    {
-      "basename": "01-Forma Normal",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/01-Forma Normal.md"
     },
     {
       "basename": "Plan de estudios",
@@ -187,18 +199,6 @@
     {
       "basename": "U3-Apunte Procesos",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/U3-Apunte Procesos.pdf"
-    },
-    {
-      "basename": "07-Red TCP-UDP",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/07-Red TCP-UDP.pdf"
-    },
-    {
-      "basename": "05-Red TCP-IP",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/05-Red TCP-IP.pdf"
-    },
-    {
-      "basename": "04-Introduccion a Ethernet",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/04-Introduccion a Ethernet.pdf"
     }
   ],
   "omittedPaths": [],
