@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Raddar",
+      "path": "20_Server/04_Jellyfin/Raddar.md"
+    },
+    {
+      "basename": "Bazzar",
+      "path": "20_Server/04_Jellyfin/Bazzar.md"
+    },
+    {
+      "basename": "Jellyseerr",
+      "path": "20_Server/04_Jellyfin/Jellyseerr.md"
+    },
+    {
       "basename": "06- Forma normal Prenexa (FNP)",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/06- Forma normal Prenexa (FNP).md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "U2-Apunte de clase Procesos Padre-hijo",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/U2-Apunte de clase Procesos Padre-hijo.pdf"
-    },
-    {
-      "basename": "U2 - Procesos y Scheduler com1",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/U2 - Procesos y Scheduler com1.pdf"
-    },
-    {
-      "basename": "U3 Procesos",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/U3 Procesos.pdf"
-    },
-    {
-      "basename": "U3-Apunte Procesos",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/U3-Apunte Procesos.pdf"
     }
   ],
   "omittedPaths": [],
