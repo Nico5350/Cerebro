@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sin título",
+      "path": "20_Server/04_Jellyfin/Sin título.md"
+    },
+    {
       "basename": "Raddar",
       "path": "20_Server/04_Jellyfin/Raddar.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Mapa Conceptual Paralelismo",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/Mapa Conceptual Paralelismo.pdf"
-    },
-    {
-      "basename": "U2-Apunte de clase Procesos Padre-hijo",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/U2-Apunte de clase Procesos Padre-hijo.pdf"
     }
   ],
   "omittedPaths": [],
