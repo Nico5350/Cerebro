@@ -1,6 +1,5 @@
-# Acumuladores Booleanos
-# Complejidad
-
+# [[07-03-2026 Acumuladores Booleanos y Matrices|Acumuladores Booleanos]]
+# [[17-03-2026 Complejidad Algorítmica y Asintótica|Complejidad]] 
 
 # TADS
 ### Estructura de TADs
