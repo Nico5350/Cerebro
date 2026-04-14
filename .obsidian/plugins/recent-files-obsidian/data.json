@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "14-4-2026 Clase repaso",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Apuntes/14-4-2026 Clase repaso.md"
+    },
+    {
+      "basename": "07-4-2026 Tads y Estructura de datos",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Apuntes/07-4-2026 Tads y Estructura de datos.md"
+    },
+    {
+      "basename": "07-03-2026 Acumuladores Booleanos y Matrices",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Apuntes/07-03-2026 Acumuladores Booleanos y Matrices.md"
+    },
+    {
+      "basename": "1er Parciales Programación II",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Parciales/1er Parciales Programación II.md"
+    },
+    {
+      "basename": "01 - Acumuladores Booleanos",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Bibiliografia progra2/Acumuladores/01 - Acumuladores Booleanos.pdf"
+    },
+    {
+      "basename": "00 - Recorrido de matrices",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Bibiliografia progra2/Acumuladores/00 - Recorrido de matrices.pdf"
+    },
+    {
+      "basename": "17-03-2026 Complejidad Algorítmica y Asintótica",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Apuntes/17-03-2026 Complejidad Algorítmica y Asintótica.md"
+    },
+    {
+      "basename": "Entregable TAD",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Entregables-Actividades/Entregable TAD.pdf"
+    },
+    {
+      "basename": "Entregable complejidad resolucion",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Entregables-Actividades/Entregable complejidad resolucion.md"
+    },
+    {
+      "basename": "Entregable Acumuladores Booleanos",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Entregables-Actividades/Entregable Acumuladores Booleanos.md"
+    },
+    {
+      "basename": "Entregable Complejidad PDF",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Entregables-Actividades/Entregable Complejidad PDF.pdf"
+    },
+    {
+      "basename": "Programación II",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Programación II.md"
+    },
+    {
       "basename": "MiniTPSOR 1 1",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/TPS/MiniTPSOR 1 1.pdf"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "02-Clase complejidad",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Bibiliografia progra2/Complejidad/02-Clase complejidad.pdf"
-    },
-    {
-      "basename": "01-Complejidad-introducción y conteo de instrucciones",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Bibiliografia progra2/Complejidad/01-Complejidad-introducción y conteo de instrucciones.pdf"
-    },
-    {
-      "basename": "04-Complejidad-Burbujeo-Para la clase",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Bibiliografia progra2/Complejidad/04-Complejidad-Burbujeo-Para la clase.pdf"
-    },
-    {
-      "basename": "03-Ejemplos de algebra de ordenes",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Bibiliografia progra2/Complejidad/03-Ejemplos de algebra de ordenes.pdf"
-    },
-    {
-      "basename": "Entregable complejidad resolucion",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Entregables-Actividades/Entregable complejidad resolucion.md"
-    },
-    {
-      "basename": "Entregable Complejidad PDF",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Entregables-Actividades/Entregable Complejidad PDF.pdf"
-    },
-    {
-      "basename": "Entregable Acumuladores Booleanos",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Entregables-Actividades/Entregable Acumuladores Booleanos.md"
-    },
-    {
-      "basename": "07_git obsidian",
-      "path": "60_Mint/07_git obsidian.md"
-    },
-    {
-      "basename": "Archivo 1 - El camino de los Reyes",
-      "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 1 - El camino de los Reyes.md"
-    },
-    {
-      "basename": "U4_ Apunte Comunicacion Interprocesos",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/U4_ Apunte Comunicacion Interprocesos.pdf"
-    },
-    {
-      "basename": "U4-Presentacion IPC",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/U4-Presentacion IPC.pdf"
-    },
-    {
-      "basename": "U4-Prensentacion Threads",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/U4-Prensentacion Threads.pdf"
-    },
-    {
-      "basename": "U4-Apunte Threads",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/U4-Apunte Threads.pdf"
     }
   ],
   "omittedPaths": [],
