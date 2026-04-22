@@ -1,21 +1,30 @@
 ---
 universo: Cosmere
 mundo_origen: Roshar
-magia: Moldeado de Almas / Erudición
-estado_actual: Activa
+magia: Nominadora de lo Otro (Potenciación)
+estado_actual: Activo
+etiquetas: [ "#cosmere", "#roshar", "#nominadora-otro", "#personaje", "#radiante", "#hereje" ]
 ---
 
-> [!info] Perfil Rápido
-> La erudita más brillante de Alethkar, princesa y atea declarada. Busca desesperadamente información sobre los Traedores del Vacío y las Sombras del Pasado.
+# 📖 Jasnah Kholin
+
+## 📋 Perfil Rápido
+La erudita más brillante (y polémica) de Alethkar, hermana del Rey y reconocida hereje. Es una Nominadora de lo Otro vinculada al inkspren Marfil. 
 
 ## 📜 Historia y Evolución
-* Aceptó a Shallan como pupila tras muchas pruebas.
-* Posee un Vinculador de Almas que parece no necesitar gemas externas .
-* Investiga la ciudad perdida de Palanaeum y el origen de los Desolaciones.
 
-## ⚔️ Habilidades y Poderes
-* **Moldeador de Almas:** Maestra en convertir materiales (ej: roca en aire o sangre).
-* Lógica y retórica implacables.
+### El Camino de los Reyes
+* Aceptó a [[Shallan Davar]] como pupila tras descubrir sus verdaderas intenciones, revelándole la existencia de los moldeadores de almas y la inminente amenaza de los Traedores del Vacío.
+
+### Palabras Radiantes (Actualización)
+* **"Asesinato":** Fue dada por muerta tras un ataque de asesinos en el barco *El Placer del Viento*.
+* **El Escape:** En realidad, utilizó sus poderes para escapar al Reino Cognitivo (Shadesmar).
+* **El Retorno:** Reaparece en el epílogo emergiendo de Shadesmar en el centro de las Llanuras Quebradas, donde se encuentra con [[Hoid]].
+
+## 🔮 Magia y Habilidades
+* **Transformación:** Es una maestra absoluta del Moldeado de Almas (Soulcasting), capaz de transmutar materias complejas sin necesidad de un fabrial.
+* **Transportación:** Puede entrar y salir físicamente de Shadesmar.
 
 ## 📚 Apariciones en Libros
 * [[El Camino de los Reyes]]
+* [[Palabras Radiantes]]

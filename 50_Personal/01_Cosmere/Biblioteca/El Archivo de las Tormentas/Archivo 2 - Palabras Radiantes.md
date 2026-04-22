@@ -23,16 +23,16 @@ tags:
 ## **Personajes Principales (Punto de Vista)**
 
 - **[[Kaladin]]:** Capitán de la guardia de Dalinar y líder del Puente Cuatro. Tras sobrevivir al abismo, jura el Tercer Ideal de los Corredores del Viento para salvar incluso a quienes odia.
-- **[[Shallan Davar]]:** Ahora pupila oficial de Jasnah. Desarrolla la identidad de "Velo" para espiar a los Sangre Espectral y utiliza sus habilidades de Tejedora de Luz para guiar a los refugiados hacia Urithiru.
-- **[[Adolin Kholin]]:** El mejor duelista de las llanuras. Su frustración con la política y la injusticia lo lleva a cometer el asesinato de Torol Sadeas, rompiendo con los códigos de su padre.
-- **[[Szeth-hijo-Neturo]]:** El Asesino de Blanco. Tras su derrota ante Kaladin, es reclamado por Nalan y recibe una nueva y terrorífica espada negra.
+- **[[Shallan]]]:** Ahora pupila oficial de Jasnah. Desarrolla la identidad de "Velo" para espiar a los Sangre Espectral y utiliza sus habilidades de Tejedora de Luz para guiar a los refugiados hacia Urithiru.
+- **[[Adolin]]:** El mejor duelista de las llanuras. Su frustración con la política y la injusticia lo lleva a cometer el asesinato de Torol Sadeas, rompiendo con los códigos de su padre.
+- **[[Szeth hijo Neturo]]:** El Asesino de Blanco. Tras su derrota ante Kaladin, es reclamado por Nalan y recibe una nueva y terrorífica espada negra.
 - **[[Eshonai]]:** Líder de los Parshendi que acepta la "forma de la tormenta" para salvar a su pueblo, desencadenando involuntariamente el fin del mundo.
     
 ## **Personajes Secundarios Clave**
 
-- **[[Dalinar Kholin]]:** Se convierte en un Forjador de Vínculos al vincularse con el Padre Tormenta.
-- **[[Renarin Kholin]]:** Se revela como un Vigía de la Verdad, aunque su spren Glys parece estar "corrupto".
-- **[[Jasnah Kholin]]:** Dada por muerta tras el ataque en el barco, regresa revelando sus habilidades como Nominadora de lo Otro.
+- **[[Dalinar]]:** Se convierte en un Forjador de Vínculos al vincularse con el Padre Tormenta.
+- **[[Renarin]]:** Se revela como un Vigía de la Verdad, aunque su spren Glys parece estar "corrupto".
+- **[[Jasnah]]:** Dada por muerta tras el ataque en el barco, regresa revelando sus habilidades como Nominadora de lo Otro.
 - **[[Hoid]] (Sagaz):** Sigue interviniendo en momentos clave, ayudando a Kaladin en sus horas más bajas y burlándose de las autoridades.
     
 

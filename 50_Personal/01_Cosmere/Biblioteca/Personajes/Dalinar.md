@@ -1,17 +1,31 @@
 ---
 universo: Cosmere
 mundo_origen: Roshar
-magia: Portador de Esquirlas / Visiones
+magia: Forjador de Vínculos (Potenciación)
 estado_actual: Activo
+etiquetas: [ "#cosmere", "#roshar", "#forjador-vinculos", "#personaje", "#radiante" ]
 ---
 
-> [!info] Perfil Rápido
-> El Espina Negra. Alto Príncipe de Alethkar y hermano del difunto rey Gavilar. Un guerrero legendario que ahora busca seguir el "Código de los Dioses".
+# 👑 Dalinar Kholin (El Espina Negra)
+
+## 📋 Perfil Rápido
+Alto Príncipe de Alethkar y tío del Rey Elhokar. Antaño fue el guerrero más temido de Roshar ("El Espina Negra"), pero ahora busca la unificación política y la paz. Es un Caballero Radiante vinculado al Padre Tormenta.
 
 ## 📜 Historia y Evolución
-* Sufre visiones durante las Altas Tormentas que parecen ser mensajes del pasado (o de una deidad).
-* Portador de una Armadura de Esquirlas y una Hoja de Esquirlas ([[Juramentada]]).
-* Su arco se centra en la búsqueda de la unidad y el honor en una corte llena de traiciones.
+
+### El Camino de los Reyes
+* Sufrió visiones del Todopoderoso durante las Altas Tormentas que lo llevaron a seguir el antiguo texto de *El Camino de los Reyes*.
+* Fue traicionado por Torol Sadeas y salvado por el Puente Cuatro, cediendo su valiosísima Hoja Esquirlada a cambio de la libertad de los esclavos de [[Kaladin]].
+
+### Palabras Radiantes (Actualización)
+* **Alto Príncipe de la Guerra:** Obligó a Elhokar a darle el control militar absoluto para intentar disciplinar a los demás Altos Príncipes.
+* **Refundación:** Inició el proyecto de Urithiru y declaró oficialmente la refundación de los Caballeros Radiantes.
+* **El Vínculo Mayor:** Al final del libro, obliga al mismísimo Padre Tormenta a vincularse con él, convirtiéndose en un Forjador de Vínculos. Su juramento: *"Uniré en lugar de dividir"*.
+
+## 🔮 Magia y Habilidades
+* **Potenciación (Proyectada):** Tensión y Adhesión. Al estar vinculado a una astilla del Todopoderoso, sus poderes operan a una escala diferente y no posee una Hoja Esquirlada tradicional.
+* **Visiones:** Puede ver ecos del pasado e interactuar (limitadamente) con el Padre Tormenta.
 
 ## 📚 Apariciones en Libros
 * [[El Camino de los Reyes]]
+* [[Palabras Radiantes]]

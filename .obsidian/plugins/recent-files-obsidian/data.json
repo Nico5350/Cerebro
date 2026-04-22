@@ -5,6 +5,30 @@
       "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 2 - Palabras Radiantes.md"
     },
     {
+      "basename": "Jasnah",
+      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Jasnah.md"
+    },
+    {
+      "basename": "Dalinar",
+      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Dalinar.md"
+    },
+    {
+      "basename": "Szeth hijo Neturo",
+      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Szeth hijo Neturo.md"
+    },
+    {
+      "basename": "Shallan",
+      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Shallan.md"
+    },
+    {
+      "basename": "Kaladin",
+      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Kaladin.md"
+    },
+    {
+      "basename": "Adolin",
+      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Adolin.md"
+    },
+    {
       "basename": "Archivo 3 - Juramentada",
       "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 3 - Juramentada.md"
     },
@@ -175,26 +199,6 @@
     {
       "basename": "04-EJ 2,3,4,5 y 6",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/Bibliografia/Logica de Predicados/04-EJ 2,3,4,5 y 6.pdf"
-    },
-    {
-      "basename": "03-EJ interpretaciones",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/Bibliografia/Logica de Predicados/03-EJ interpretaciones.pdf"
-    },
-    {
-      "basename": "01-Ej estilo 15 y 17",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/Bibliografia/Logica de Predicados/01-Ej estilo 15 y 17.pdf"
-    },
-    {
-      "basename": "02-EJ - FNPC y FNPD",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/Bibliografia/Logica de Predicados/02-EJ - FNPC y FNPD.pdf"
-    },
-    {
-      "basename": "08-Teórica 4 - FNDyFNC Completas",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/Bibliografia/Logica Proposicional/08-Teórica 4 - FNDyFNC Completas.pdf"
-    },
-    {
-      "basename": "07-Teórica 3 - FNDyFNC",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/Bibliografia/Logica Proposicional/07-Teórica 3 - FNDyFNC.pdf"
     }
   ],
   "omittedPaths": [],
