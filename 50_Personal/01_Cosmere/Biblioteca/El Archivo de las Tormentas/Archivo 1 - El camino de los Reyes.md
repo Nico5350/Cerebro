@@ -33,9 +33,3 @@ tags:
 * **Magia:** [[Potenciación]], [[Luz Tormentosa]], [[Vínculo Nahel]] 
 * **Reliquias:** [[Esquirlas]] (Hojas y Armaduras) 
 
-## 🔎 Notas Personales y Misterios 
-
-* **¿Qué son realmente los Parshmenios y los Parshendi?
-* * *¿Quiénes son las entidades que le hablan a Dalinar en sus visiones?
-* * *¿De dónde saca Hoid sus poderes (ej. tocar la flauta con polvo/humo)?
-* * *(Agregá acá cualquier otra duda o conexión que te haya llamado la atención)*

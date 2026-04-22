@@ -9,7 +9,7 @@ categoria: Religión y Sociedad
 ^184e93
 
 ## ⚙️ Características Clave
-* **Sistema de Permisos (Ojos):** * *Ojos Claros (Lighteyes):* La nobleza y clase gobernante. Se cree que tienen el derecho divino a gobernar porque sus ojos se parecen a los de los antiguos [[Caballeros Radiantes]].
+* **Sistema de Permisos (Ojos):** * *Ojos Claros (Lighteyes):* La nobleza y clase gobernante. Se cree que tienen el derecho divino a gobernar porque sus ojos se parecen a los de los antiguos [[Radiantes]].
   * *Ojos Oscuros (Darkeyes):* La clase trabajadora y esclavos. No pueden poseer tierras ni tener altos rangos militares.
 * **Roles de Género:** * *Hombres:* Su deber sagrado es luchar y gobernar. Tienen prohibido aprender a leer y escribir (se considera afeminado).
   * *Mujeres:* Son las eruditas, ingenieras, científicas y escribas. Tienen prohibido usar armas.

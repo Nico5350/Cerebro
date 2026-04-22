@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Sin título",
+      "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Sin título.md"
+    },
+    {
+      "basename": "Radiantes",
+      "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/Radiantes.md"
+    },
+    {
+      "basename": "Archivo 2 - Palabras Radiantes",
+      "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 2 - Palabras Radiantes.md"
+    },
+    {
+      "basename": "Potenciacion",
+      "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/Potenciacion.md"
+    },
+    {
+      "basename": "Archivo 1 - El camino de los Reyes",
+      "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 1 - El camino de los Reyes.md"
+    },
+    {
       "basename": "Luz Tormentosa",
       "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/Luz Tormentosa.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "Eshonai",
       "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Eshonai.md"
-    },
-    {
-      "basename": "Archivo 2 - Palabras Radiantes",
-      "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 2 - Palabras Radiantes.md"
     },
     {
       "basename": "Zahel",
@@ -71,10 +87,6 @@
     {
       "basename": "El aliento de los dioses",
       "path": "50_Personal/01_Cosmere/Biblioteca/Tomos unicos/El aliento de los dioses.md"
-    },
-    {
-      "basename": "Archivo 1 - El camino de los Reyes",
-      "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 1 - El camino de los Reyes.md"
     },
     {
       "basename": "Palabras radiantes 1",
@@ -187,18 +199,6 @@
     {
       "basename": "Lógica y Teoría de Números",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/Lógica y Teoría de Números.md"
-    },
-    {
-      "basename": "Plan de estudios",
-      "path": "10_Estudios/02_Universidad/Plan de estudios.md"
-    },
-    {
-      "basename": "Fundamentos de SO",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Fundamentos de SO.pdf"
-    },
-    {
-      "basename": "09-TEÓRICA 8 -FNPDyC",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/Bibliografia/Logica de Predicados/09-TEÓRICA 8 -FNPDyC.pdf"
     }
   ],
   "omittedPaths": [],

@@ -14,6 +14,7 @@ tags:
 # 📚 Libro: Archivo 2 - Palabras Radiantes
 
 [[Roshar]]
+[[Radiantes]]
 
 ![[Palabras radiantes 1.jpeg]]
 
@@ -41,5 +42,5 @@ tags:
 
 - **Mundo:** Urithiru, La Tormenta Eterna, Puertas Juradas (Oathgates).
 - **Geografía:** El Centro de las Llanuras Quebradas, Escarcha de Trueno.
-- **Magia:** Potencias de Iluminación y Progresión, El Tercer Ideal, Sangre Nocturna.
+- **Magia:** [[Potenciacion]]
 - **Reliquias:** Hojas Esquirladas vivas (que cambian de forma), La espada de Zahel.

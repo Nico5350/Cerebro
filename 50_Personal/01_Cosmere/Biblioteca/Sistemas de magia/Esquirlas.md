@@ -4,7 +4,7 @@ mundo: Roshar
 categoria: Artefactos Mágicos
 ---
 > [!abstract] Definición
-> Reliquias legendarias de poder abrumador que dejaron atrás los antiguos [[Caballeros Radiantes]] el "Día de la Traición". 
+> Reliquias legendarias de poder abrumador que dejaron atrás los antiguos [[Radiantes]] el "Día de la Traición". 
 
 ^2ab41e
 
