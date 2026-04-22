@@ -5,6 +5,18 @@
       "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 2 - Palabras Radiantes.md"
     },
     {
+      "basename": "Archivo 1 - El camino de los Reyes",
+      "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 1 - El camino de los Reyes.md"
+    },
+    {
+      "basename": "Archivo 3 - Juramentada",
+      "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 3 - Juramentada.md"
+    },
+    {
+      "basename": "Palabras radiantes 1",
+      "path": "50_Personal/01_Cosmere/Biblioteca/Portadas/Palabras radiantes 1.jpeg"
+    },
+    {
       "basename": "Sin título",
       "path": "20_Server/04_Jellyfin/Sin título.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "01-Ej Resueltos estilo 1,2,3",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/Bibliografia/Logica Proposicional/01-Ej Resueltos estilo 1,2,3.pdf"
-    },
-    {
-      "basename": "índice materias actual",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/índice materias actual.md"
-    },
-    {
-      "basename": "02- EJ Resueltos FNDC-FNCC",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/Bibliografia/Logica Proposicional/02- EJ Resueltos FNDC-FNCC.pdf"
-    },
-    {
-      "basename": "Tipos Abstractos de Datos (TAD) - Introducción",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Bibiliografia progra2/TADS/Tipos Abstractos de Datos (TAD) - Introducción.pdf"
     }
   ],
   "omittedPaths": [],
