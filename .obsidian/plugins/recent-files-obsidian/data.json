@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Sin título",
-      "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Sin título.md"
+      "basename": "Corredores del Viento",
+      "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/Ordenes de Radiantes/Corredores del Viento.md"
     },
     {
-      "basename": "Radiantes",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/Radiantes.md"
+      "basename": "Lift",
+      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Lift.md"
+    },
+    {
+      "basename": "Archivo 2.5 - Danzante del filo",
+      "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 2.5 - Danzante del filo.md"
     },
     {
       "basename": "Archivo 2 - Palabras Radiantes",
       "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 2 - Palabras Radiantes.md"
     },
     {
-      "basename": "Potenciacion",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/Potenciacion.md"
-    },
-    {
       "basename": "Archivo 1 - El camino de los Reyes",
       "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 1 - El camino de los Reyes.md"
+    },
+    {
+      "basename": "Radiantes",
+      "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/Ordenes de Radiantes/Radiantes.md"
+    },
+    {
+      "basename": "Potenciacion",
+      "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/Potenciacion.md"
     },
     {
       "basename": "Luz Tormentosa",
@@ -191,14 +199,6 @@
     {
       "basename": "00- Logica Proposicional Basica",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/00- Logica Proposicional Basica.md"
-    },
-    {
-      "basename": "Parcial Lógica y Teoría de Números II",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/Parcial Lógica y Teoría de Números II.md"
-    },
-    {
-      "basename": "Lógica y Teoría de Números",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/Lógica y Teoría de Números.md"
     }
   ],
   "omittedPaths": [],
