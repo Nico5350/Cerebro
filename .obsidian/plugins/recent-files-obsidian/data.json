@@ -5,12 +5,32 @@
       "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 2 - Palabras Radiantes.md"
     },
     {
-      "basename": "Archivo 1 - El camino de los Reyes",
-      "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 1 - El camino de los Reyes.md"
-    },
-    {
       "basename": "Archivo 3 - Juramentada",
       "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 3 - Juramentada.md"
+    },
+    {
+      "basename": "Biblioteca",
+      "path": "50_Personal/01_Cosmere/Biblioteca/Biblioteca.md"
+    },
+    {
+      "basename": "Danzante De Filo",
+      "path": "50_Personal/01_Cosmere/Biblioteca/Tomos unicos/Danzante De Filo.md"
+    },
+    {
+      "basename": "Elantris",
+      "path": "50_Personal/01_Cosmere/Biblioteca/Tomos unicos/Elantris.md"
+    },
+    {
+      "basename": "El alma del Emperador",
+      "path": "50_Personal/01_Cosmere/Biblioteca/Tomos unicos/El alma del Emperador.md"
+    },
+    {
+      "basename": "El aliento de los dioses",
+      "path": "50_Personal/01_Cosmere/Biblioteca/Tomos unicos/El aliento de los dioses.md"
+    },
+    {
+      "basename": "Archivo 1 - El camino de los Reyes",
+      "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 1 - El camino de los Reyes.md"
     },
     {
       "basename": "Palabras radiantes 1",
@@ -175,30 +195,6 @@
     {
       "basename": "07-Teórica 3 - FNDyFNC",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/Bibliografia/Logica Proposicional/07-Teórica 3 - FNDyFNC.pdf"
-    },
-    {
-      "basename": "06-Teórica 2 - Equivalencias",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/Bibliografia/Logica Proposicional/06-Teórica 2 - Equivalencias.pdf"
-    },
-    {
-      "basename": "05-Teórica 1 - Logica Proposicional",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/Bibliografia/Logica Proposicional/05-Teórica 1 - Logica Proposicional.pdf"
-    },
-    {
-      "basename": "Indice estudios",
-      "path": "10_Estudios/Indice estudios.md"
-    },
-    {
-      "basename": "04- Propiedades_logicas",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/Bibliografia/Logica Proposicional/04- Propiedades_logicas.pdf"
-    },
-    {
-      "basename": "03-Practica 1",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/Bibliografia/Logica Proposicional/03-Practica 1.pdf"
-    },
-    {
-      "basename": "01-Ej Resueltos estilo 1,2,3",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/Bibliografia/Logica Proposicional/01-Ej Resueltos estilo 1,2,3.pdf"
     }
   ],
   "omittedPaths": [],
