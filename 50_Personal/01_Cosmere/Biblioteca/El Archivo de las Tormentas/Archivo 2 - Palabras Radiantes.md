@@ -34,6 +34,7 @@ tags:
 - **[[Renarin]]:** Se revela como un Vigía de la Verdad, aunque su spren Glys parece estar "corrupto".
 - **[[Jasnah]]:** Dada por muerta tras el ataque en el barco, regresa revelando sus habilidades como Nominadora de lo Otro.
 - **[[Hoid]] (Sagaz):** Sigue interviniendo en momentos clave, ayudando a Kaladin en sus horas más bajas y burlándose de las autoridades.
+- [[Zahel]] : maestro de espadas de los campamentos Alezi. Entrena a [[Adolin]] y a [[Renarin]]
     
 
 ## **Lore y Conceptos Introducidos**
