@@ -11,10 +11,9 @@ fecha_terminado:
 tags:
   - lectura
 ---
-# 📚 Libro: Archivo 2 - Palabras Radiantes
+#  Archivo 2 - Palabras Radiantes
 
 [[Roshar]]
-[[Radiantes]]
 
 ![[Palabras radiantes 1.jpeg]]
 

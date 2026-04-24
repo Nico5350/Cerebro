@@ -11,7 +11,7 @@ fecha_terminado: 25/03/2026
 tags:
   - lectura
 ---
-# 📚 Libro: Archivo 1 - El camino de los Reyes
+#  Archivo 1 - El camino de los Reyes
 ## [[Mundo Roshar.canvas| Roshar]]
 ![[el camino de los reyes.jpg]]
 > [!info] Sinopsis > En Roshar, un mundo de piedra y tormentas brutales, un antiguo conflicto despierta. La historia sigue a tres personas cuyas vidas están a punto de cruzarse en medio de una guerra estancada en las inhóspitas Planicies Quebradas: un esclavo obligado a cargar puentes hacia una muerte segura, un Alto Príncipe que sufre visiones que cuestionan su cordura, y una joven erudita dispuesta a cometer un robo para salvar a su familia. Mientras tanto, el legendario Asesino de Blanco llora cada vez que se ve obligado a matar. 

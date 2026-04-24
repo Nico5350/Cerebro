@@ -11,7 +11,7 @@ fecha_terminado:
 tags:
   - lectura
 ---
-# 📚 Libro: Archivo 3 - Juramentada
+#  Archivo 3 - Juramentada
 
 > [!ABSTRACT] Sinopsis Personal
 > ¿De qué trata este libro y qué me pareció?
