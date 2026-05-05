@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Organizacion del Computador",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Organizacion del Computador.md"
+    },
+    {
       "basename": "Von neumann",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Teoria/Von neumann.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Corredores del Viento",
       "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/Ordenes de Radiantes/Corredores del Viento.md"
-    },
-    {
-      "basename": "Lift",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Lift.md"
     }
   ],
   "omittedPaths": [],
