@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "V1_COM1- Introduccion-Cómo y Qué_2022_1C",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/V1_COM1- Introduccion-Cómo y Qué_2022_1C.pdf"
+    },
+    {
+      "basename": "U2 Memorias MPpal Jerarquía Tipos 2025",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/U2 Memorias MPpal Jerarquía Tipos 2025.pdf"
+    },
+    {
+      "basename": "tabla ascii",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/tabla ascii.pdf"
+    },
+    {
+      "basename": "U2_Modelo de Von Neumann 2024_2C",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/U2_Modelo de Von Neumann 2024_2C.pdf"
+    },
+    {
+      "basename": "SIST_NUMERACIÓN_2023_1c",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/SIST_NUMERACIÓN_2023_1c.pdf"
+    },
+    {
+      "basename": "SIST_NUMteorica OCTAL HEXA CV3",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/SIST_NUMteorica OCTAL HEXA CV3.pdf"
+    },
+    {
+      "basename": "Punto flotante_clase_presencial 2025",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Punto flotante_clase_presencial 2025.pdf"
+    },
+    {
+      "basename": "pto fotante Lautaro",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/pto fotante Lautaro.pdf"
+    },
+    {
+      "basename": "ARM Cartilla de instrucciones V1.0",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/ARM Cartilla de instrucciones V1.0.pdf"
+    },
+    {
+      "basename": "3-Representación de texto_v2",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/3-Representación de texto_v2.pdf"
+    },
+    {
+      "basename": "2_MemoriaSecundaria_2022_2C",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/2_MemoriaSecundaria_2022_2C.pdf"
+    },
+    {
+      "basename": "Control de flujo",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/ARM/Control de flujo.md"
+    },
+    {
+      "basename": "Cartilla de instrucciones",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/ARM/Cartilla de instrucciones.md"
+    },
+    {
       "basename": "01-Introduccion a Redes",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/01-Introduccion a Redes.pdf"
     },
@@ -147,58 +199,6 @@
     {
       "basename": "Adolin",
       "path": "50_Personal/01_Cosmere/Biblioteca/Personajes/Adolin.md"
-    },
-    {
-      "basename": "Biblioteca",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Biblioteca.md"
-    },
-    {
-      "basename": "Danzante De Filo",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Tomos unicos/Danzante De Filo.md"
-    },
-    {
-      "basename": "Elantris",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Tomos unicos/Elantris.md"
-    },
-    {
-      "basename": "El alma del Emperador",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Tomos unicos/El alma del Emperador.md"
-    },
-    {
-      "basename": "El aliento de los dioses",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Tomos unicos/El aliento de los dioses.md"
-    },
-    {
-      "basename": "Palabras radiantes 1",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Portadas/Palabras radiantes 1.jpeg"
-    },
-    {
-      "basename": "Sin título",
-      "path": "20_Server/04_Jellyfin/Sin título.md"
-    },
-    {
-      "basename": "Raddar",
-      "path": "20_Server/04_Jellyfin/Raddar.md"
-    },
-    {
-      "basename": "Jellyseerr",
-      "path": "20_Server/04_Jellyfin/Jellyseerr.md"
-    },
-    {
-      "basename": "Bazzar",
-      "path": "20_Server/04_Jellyfin/Bazzar.md"
-    },
-    {
-      "basename": "14-4-2026 Clase repaso",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Apuntes/14-4-2026 Clase repaso.md"
-    },
-    {
-      "basename": "07-03-2026 Acumuladores Booleanos y Matrices",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Apuntes/07-03-2026 Acumuladores Booleanos y Matrices.md"
-    },
-    {
-      "basename": "07-4-2026 Tads y Estructura de datos",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Apuntes/07-4-2026 Tads y Estructura de datos.md"
     }
   ],
   "omittedPaths": [],
