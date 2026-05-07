@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Entrada-Salida Interrupciones",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/ARM/Entrada-Salida Interrupciones.md"
+    },
+    {
+      "basename": "Cartilla de instrucciones",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/ARM/Cartilla de instrucciones.md"
+    },
+    {
+      "basename": "Control de flujo",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/ARM/Control de flujo.md"
+    },
+    {
+      "basename": "U42 Álgebra de Boole_V2025",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/U42 Álgebra de Boole_V2025.pdf"
+    },
+    {
+      "basename": "Unidad 4 Compuertas Lógicas_V24",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Unidad 4 Compuertas Lógicas_V24.pdf"
+    },
+    {
+      "basename": "ARMInstrucciones_logicas",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/ARMInstrucciones_logicas.pdf"
+    },
+    {
+      "basename": "Estructura de un programa e instrucciones ARM",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Estructura de un programa e instrucciones ARM.pdf"
+    },
+    {
+      "basename": "ARMInterrupciones",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/ARMInterrupciones.pdf"
+    },
+    {
       "basename": "pto fotante Lautaro",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/pto fotante Lautaro.pdf"
     },
@@ -117,10 +149,6 @@
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/U2_Modelo de Von Neumann 2024_2C.pdf"
     },
     {
-      "basename": "U42 Álgebra de Boole_V2025",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/U42 Álgebra de Boole_V2025.pdf"
-    },
-    {
       "basename": "V1_COM1- Introduccion-Cómo y Qué_2022_1C",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/V1_COM1- Introduccion-Cómo y Qué_2022_1C.pdf"
     },
@@ -139,14 +167,6 @@
     {
       "basename": "2_MemoriaSecundaria_2022_2C",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/2_MemoriaSecundaria_2022_2C.pdf"
-    },
-    {
-      "basename": "Control de flujo",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/ARM/Control de flujo.md"
-    },
-    {
-      "basename": "Cartilla de instrucciones",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/ARM/Cartilla de instrucciones.md"
     },
     {
       "basename": "01-Introduccion a Redes",
@@ -179,26 +199,6 @@
     {
       "basename": "Mapa Conceptual Paralelismo",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/Mapa Conceptual Paralelismo.pdf"
-    },
-    {
-      "basename": "U2 - Procesos y Scheduler com1",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/U2 - Procesos y Scheduler com1.pdf"
-    },
-    {
-      "basename": "Mapa Conceptual Concurrencia",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/Mapa Conceptual Concurrencia.pdf"
-    },
-    {
-      "basename": "03_Unidad 1 shell",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Introduccion/03_Unidad 1 shell.pdf"
-    },
-    {
-      "basename": "01_ SO",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Introduccion/01_ SO.pdf"
-    },
-    {
-      "basename": "02_Apunte Intro SO",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Introduccion/02_Apunte Intro SO.pdf"
     }
   ],
   "omittedPaths": [],
