@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Unidad 4 Compuertas Lógicas_V24",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Unidad 4 Compuertas Lógicas_V24.pdf"
+    },
+    {
+      "basename": "Entrada-Salida Interrupciones",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/ARM/Entrada-Salida Interrupciones.md"
+    },
+    {
       "basename": "ARMInstrucciones_logicas",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/ARMInstrucciones_logicas.pdf"
     },
@@ -13,10 +21,6 @@
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/pto fotante Lautaro.pdf"
     },
     {
-      "basename": "Entrada-Salida Interrupciones",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/ARM/Entrada-Salida Interrupciones.md"
-    },
-    {
       "basename": "Cartilla de instrucciones",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/ARM/Cartilla de instrucciones.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "U42 Álgebra de Boole_V2025",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/U42 Álgebra de Boole_V2025.pdf"
-    },
-    {
-      "basename": "Unidad 4 Compuertas Lógicas_V24",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Unidad 4 Compuertas Lógicas_V24.pdf"
     },
     {
       "basename": "Estructura de un programa e instrucciones ARM",
