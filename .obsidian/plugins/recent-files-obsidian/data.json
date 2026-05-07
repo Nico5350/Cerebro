@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Sistemas de Representación_2024",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Sistemas de Representación_2024.pdf"
+    },
+    {
+      "basename": "Sistema de representacion",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Teoria/Sistema de representacion.md"
+    },
+    {
+      "basename": "Sistema de numeracion",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Teoria/Sistema de numeracion.md"
+    },
+    {
+      "basename": "Representacion de texto",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Teoria/Representacion de texto.md"
+    },
+    {
+      "basename": "Punto flotante",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Teoria/Punto flotante.md"
+    },
+    {
+      "basename": "Estructuras de control de flujo_subrutinas",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Estructuras de control de flujo_subrutinas.pdf"
+    },
+    {
+      "basename": "Modos de direccionamiento ARM-2025",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Modos de direccionamiento ARM-2025.pdf"
+    },
+    {
+      "basename": "Presentación Interrupciones con arhivos 2024 - v1",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Presentación Interrupciones con arhivos 2024 - v1.pdf"
+    },
+    {
+      "basename": "pto fotante Lautaro",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/pto fotante Lautaro.pdf"
+    },
+    {
+      "basename": "Punto flotante_clase_presencial 2025",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Punto flotante_clase_presencial 2025.pdf"
+    },
+    {
       "basename": "SIST_NUMteorica OCTAL HEXA CV3",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/SIST_NUMteorica OCTAL HEXA CV3.pdf"
     },
@@ -49,18 +89,6 @@
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Teoria/Von neumann.md"
     },
     {
-      "basename": "Sistema de representacion",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Teoria/Sistema de representacion.md"
-    },
-    {
-      "basename": "Sistema de numeracion",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Teoria/Sistema de numeracion.md"
-    },
-    {
-      "basename": "Representacion de texto",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Teoria/Representacion de texto.md"
-    },
-    {
       "basename": "Memoria secundaria",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Teoria/Memoria secundaria.md"
     },
@@ -77,20 +105,8 @@
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Teoria/Compuertas logicas.md"
     },
     {
-      "basename": "Modos de direccionamiento ARM-2025",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Modos de direccionamiento ARM-2025.pdf"
-    },
-    {
-      "basename": "Presentación Interrupciones con arhivos 2024 - v1",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Presentación Interrupciones con arhivos 2024 - v1.pdf"
-    },
-    {
       "basename": "SIST_NUMERACIÓN_2023_1c",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/SIST_NUMERACIÓN_2023_1c.pdf"
-    },
-    {
-      "basename": "Sistemas de Representación_2024",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Sistemas de Representación_2024.pdf"
     },
     {
       "basename": "U2 Memorias MPpal Jerarquía Tipos 2025",
@@ -111,14 +127,6 @@
     {
       "basename": "tabla ascii",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/tabla ascii.pdf"
-    },
-    {
-      "basename": "Punto flotante_clase_presencial 2025",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Punto flotante_clase_presencial 2025.pdf"
-    },
-    {
-      "basename": "pto fotante Lautaro",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/pto fotante Lautaro.pdf"
     },
     {
       "basename": "ARM Cartilla de instrucciones V1.0",
@@ -191,14 +199,6 @@
     {
       "basename": "02_Apunte Intro SO",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Introduccion/02_Apunte Intro SO.pdf"
-    },
-    {
-      "basename": "Archivo 2 - Palabras Radiantes",
-      "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 2 - Palabras Radiantes.md"
-    },
-    {
-      "basename": "Archivo 2.5 - Danzante del filo",
-      "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 2.5 - Danzante del filo.md"
     }
   ],
   "omittedPaths": [],
