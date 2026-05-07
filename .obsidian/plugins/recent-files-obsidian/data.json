@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "WebVida (App Propia)",
+      "path": "20_Server/02_Contenedores_Docker/WebVida/WebVida (App Propia).md"
+    },
+    {
+      "basename": "La Chiquitita",
+      "path": "20_Server/La Chiquitita.md"
+    },
+    {
+      "basename": "Jellyseerr",
+      "path": "20_Server/04_Jellyfin/Jellyseerr.md"
+    },
+    {
+      "basename": "Bazzar",
+      "path": "20_Server/04_Jellyfin/Bazzar.md"
+    },
+    {
+      "basename": "Bitacora",
+      "path": "20_Server/01_Bitacoras de Server/Bitacora.md"
+    },
+    {
+      "basename": "Inidice de Bitacoras",
+      "path": "20_Server/01_Bitacoras de Server/Inidice de Bitacoras.md"
+    },
+    {
+      "basename": "AdGuard_Home",
+      "path": "20_Server/02_Contenedores_Docker/AdGuard/AdGuard_Home.md"
+    },
+    {
+      "basename": "ATM 10 Lite",
+      "path": "20_Server/02_Contenedores_Docker/ATM10 Lite/ATM 10 Lite.md"
+    },
+    {
+      "basename": "Beszel",
+      "path": "20_Server/02_Contenedores_Docker/Beszel/Beszel.md"
+    },
+    {
       "basename": "Organizacion del Computador",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Organizacion del Computador.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "Archivo 2.5 - Danzante del filo",
       "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 2.5 - Danzante del filo.md"
-    },
-    {
-      "basename": "Archivo 1 - El camino de los Reyes",
-      "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 1 - El camino de los Reyes.md"
-    },
-    {
-      "basename": "Archivo 3 - Juramentada",
-      "path": "50_Personal/01_Cosmere/Biblioteca/El Archivo de las Tormentas/Archivo 3 - Juramentada.md"
-    },
-    {
-      "basename": "Vigias de la Verdad",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/Ordenes de Radiantes/Vigias de la Verdad.md"
-    },
-    {
-      "basename": "Tejedores de luz",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/Ordenes de Radiantes/Tejedores de luz.md"
-    },
-    {
-      "basename": "Rompedores del Cielo",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/Ordenes de Radiantes/Rompedores del Cielo.md"
-    },
-    {
-      "basename": "Nominadores de lo Otro",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/Ordenes de Radiantes/Nominadores de lo Otro.md"
-    },
-    {
-      "basename": "Forjadores de Vinculos",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/Ordenes de Radiantes/Forjadores de Vinculos.md"
-    },
-    {
-      "basename": "Danzante del filo",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/Ordenes de Radiantes/Danzante del filo.md"
-    },
-    {
-      "basename": "Corredores del Viento",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Sistemas de magia/Ordenes de Radiantes/Corredores del Viento.md"
     }
   ],
   "omittedPaths": [],
