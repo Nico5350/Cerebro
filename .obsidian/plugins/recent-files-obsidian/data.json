@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "00_Inicio",
+      "path": "00_Sistema/00_Inicio.md"
+    },
+    {
+      "basename": "Drawing 2026-05-08 12.05.42.excalidraw",
+      "path": "Excalidraw/Drawing 2026-05-08 12.05.42.excalidraw.md"
+    },
+    {
+      "basename": "Sin título",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Trabajo Practico/Sin título.canvas"
+    },
+    {
       "basename": "U42 Álgebra de Boole_V2025",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/U42 Álgebra de Boole_V2025.pdf"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "U3-Apunte Procesos",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/U3-Apunte Procesos.pdf"
-    },
-    {
-      "basename": "U3 Procesos",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/U3 Procesos.pdf"
-    },
-    {
-      "basename": "U2-Apunte de clase Procesos Padre-hijo",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/U2-Apunte de clase Procesos Padre-hijo.pdf"
-    },
-    {
-      "basename": "Mapa Conceptual Paralelismo",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/Mapa Conceptual Paralelismo.pdf"
     }
   ],
   "omittedPaths": [],
