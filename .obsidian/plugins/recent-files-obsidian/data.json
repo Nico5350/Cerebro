@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "01-Introduccion a Redes",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/01-Introduccion a Redes.pdf"
+    },
+    {
+      "basename": "02-Modelo OSI",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/02-Modelo OSI.pdf"
+    },
+    {
+      "basename": "03-Capa de Enlance",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/03-Capa de Enlance.pdf"
+    },
+    {
+      "basename": "04-Introduccion a Ethernet",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/04-Introduccion a Ethernet.pdf"
+    },
+    {
+      "basename": "07-Red TCP-UDP",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/07-Red TCP-UDP.pdf"
+    },
+    {
+      "basename": "06-Capa de Aplicacion",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/06-Capa de Aplicacion.pdf"
+    },
+    {
+      "basename": "05-Red TCP-IP",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/05-Red TCP-IP.pdf"
+    },
+    {
+      "basename": "Guía Práctica de Capa de Red_ IP y Subnetting.docx",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/Guía Práctica de Capa de Red_ IP y Subnetting.docx.pdf"
+    },
+    {
       "basename": "Plan de estudios",
       "path": "10_Estudios/02_Universidad/Plan de estudios.md"
     },
@@ -163,42 +195,6 @@
     {
       "basename": "Compuertas logicas",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Teoria/Compuertas logicas.md"
-    },
-    {
-      "basename": "SIST_NUMERACIÓN_2023_1c",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/SIST_NUMERACIÓN_2023_1c.pdf"
-    },
-    {
-      "basename": "U2_Modelo de Von Neumann 2024_2C",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/U2_Modelo de Von Neumann 2024_2C.pdf"
-    },
-    {
-      "basename": "tabla ascii",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/tabla ascii.pdf"
-    },
-    {
-      "basename": "ARM Cartilla de instrucciones V1.0",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/ARM Cartilla de instrucciones V1.0.pdf"
-    },
-    {
-      "basename": "3-Representación de texto_v2",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/3-Representación de texto_v2.pdf"
-    },
-    {
-      "basename": "2_MemoriaSecundaria_2022_2C",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/2_MemoriaSecundaria_2022_2C.pdf"
-    },
-    {
-      "basename": "01-Introduccion a Redes",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/01-Introduccion a Redes.pdf"
-    },
-    {
-      "basename": "U4-Prensentacion Threads",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/U4-Prensentacion Threads.pdf"
-    },
-    {
-      "basename": "U4-Apunte Threads",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/U4-Apunte Threads.pdf"
     }
   ],
   "omittedPaths": [],
