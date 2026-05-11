@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Indice estudios",
+      "path": "10_Estudios/Indice estudios.md"
+    },
+    {
       "basename": "Cartilla de instrucciones",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/ARM/Cartilla de instrucciones.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "U4_ Apunte Comunicacion Interprocesos",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/U4_ Apunte Comunicacion Interprocesos.pdf"
-    },
-    {
-      "basename": "U3-Apunte Procesos",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/U3-Apunte Procesos.pdf"
     }
   ],
   "omittedPaths": [],
