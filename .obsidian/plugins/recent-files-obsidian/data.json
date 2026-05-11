@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Plan de estudios",
+      "path": "10_Estudios/02_Universidad/Plan de estudios.md"
+    },
+    {
       "basename": "Indice estudios",
       "path": "10_Estudios/Indice estudios.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "U4-Apunte Threads",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/U4-Apunte Threads.pdf"
-    },
-    {
-      "basename": "U4_ Apunte Comunicacion Interprocesos",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Procesos/U4_ Apunte Comunicacion Interprocesos.pdf"
     }
   ],
   "omittedPaths": [],
