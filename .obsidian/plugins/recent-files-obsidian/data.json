@@ -5,6 +5,14 @@
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Apuntes/12-5-26 Clase virtual Recursividad y Arbol binario.md"
     },
     {
+      "basename": "Codigo Godot",
+      "path": "30_Código/01_Godot/Codigo Godot.md"
+    },
+    {
+      "basename": "índice de Código",
+      "path": "30_Código/índice de Código.md"
+    },
+    {
       "basename": "07-4-2026 Tads y Estructura de datos",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Apuntes/07-4-2026 Tads y Estructura de datos.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "Drawing 2026-05-08 12.05.42.excalidraw",
       "path": "Excalidraw/Drawing 2026-05-08 12.05.42.excalidraw.md"
-    },
-    {
-      "basename": "Sin título",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Trabajo Practico/Sin título.canvas"
     },
     {
       "basename": "U42 Álgebra de Boole_V2025",
@@ -195,10 +199,6 @@
     {
       "basename": "Beszel",
       "path": "20_Server/02_Contenedores_Docker/Beszel/Beszel.md"
-    },
-    {
-      "basename": "Organizacion del Computador",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Organizacion del Computador.md"
     }
   ],
   "omittedPaths": [],
