@@ -1,3 +1,5 @@
+## Teoría:
+[[06 - Recursividad y arboles.pdf]]
 ## 2do Parcial:
 
 TADS Objetos 1:30
@@ -71,5 +73,13 @@ todos los nodos que están a la misma distancia de la raíz
 
 # Arbol Binario
 Arboles con dos hijos, seria un árbol de grado 2 y ese es su máximo de hijos.
-El subArbol izquierdo y el derecho son arboles binarios O tiene un hijo O no tiene hijos
+#### El sub Árbol izquierdo y el derecho son arboles binarios O tiene un hijo O no tiene hijos par a que el arbol sea binario
+
+
 ![[Pasted image 20260512101327.png]]
+
+#### Árbol Completo o Incompleto
+El Árbol completo no lleno que todos los subárboles son de grado 2 mientras el incompleto no tiene todos los subárboles de grados 2 puede variar.
+
+#### Árbol Balanceado o Desbalanceado
+El árbol esta balanceado tiene que tener una altura de 1 
