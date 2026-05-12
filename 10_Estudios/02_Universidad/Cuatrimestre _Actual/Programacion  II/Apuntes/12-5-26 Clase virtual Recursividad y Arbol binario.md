@@ -22,3 +22,6 @@ Arboles 1:30
 - Fibonacci
 - Búsqueda binaria
 - Insertar en una lista enlazada ordenada
+int factorial(int n){
+
+}
