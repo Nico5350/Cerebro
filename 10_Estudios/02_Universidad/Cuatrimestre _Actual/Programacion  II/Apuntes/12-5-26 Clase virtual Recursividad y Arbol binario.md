@@ -54,9 +54,17 @@ un arbol constanta de un conjunto finito de elementos
 - Nodo Internos: Nodos con unos o mas hijos 
 - Nodo Hoja: Nodos sin hijos
 
-#### *Altura*: desde el nodo raíz a la hoja mas lejana
-#### *Grado*: cantidad maximas de nodos/hijos dsp de la raiz
-#### *Niveles* la raiz es nivel 1 y desde alli empieza a bajar, por ejemplos los hijos del nodo raiz serian el nivel 2
+![[Pasted image 20260512100827.png]]
+#### *Altura*: 
+desde el nodo raíz a la hoja mas lejana
+#### *Grado*:
+cantidad máximas de nodos/hijos dsp de la raíz
+#### *Niveles*
+la raíz es nivel 1 y desde allí empieza a bajar, por ejemplos los hijos del nodo raíz serian el nivel 2
 
-#### *Camino*: Secuencia de nodos adyacentes para llegar de un nodo X a un nodo Y
-#### *Rama*
+#### *Camino*:
+Secuencia de nodos adyacentes para llegar de un nodo X a un nodo Y
+#### *Rama*: 
+Camino que comienza en la raíz y termina en una hoja
+#### *Nivel*
+todos los nodos que están a la misma distancia de la raíz
