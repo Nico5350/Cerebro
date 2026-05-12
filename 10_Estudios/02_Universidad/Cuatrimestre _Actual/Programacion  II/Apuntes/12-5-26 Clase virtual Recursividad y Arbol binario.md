@@ -82,4 +82,35 @@ Arboles con dos hijos, seria un árbol de grado 2 y ese es su máximo de hijos.
 El Árbol completo no lleno que todos los subárboles son de grado 2 mientras el incompleto no tiene todos los subárboles de grados 2 puede variar.
 
 #### Árbol Balanceado o Desbalanceado
-El árbol esta balanceado tiene que tener una altura de 1 
+El árbol esta balanceado tiene que tener una altura de 1 o menos (tolerancia), y para que este desbalanceado lo contrario
+
+Implementación de un AB - IREP Para implementarlo se debe respetar el siguiente IREP: ● Se puede llegar a todos los nodos desde la raíz ● Cada nodo tiene un solo padre ● No tiene ciclos ● Cada nodo puede tener a lo sumo 2 hijos.
+
+```bash
+
+Implementación de un AB 
+	public class AB<T> { // Árbol binario Genérico 
+	protected Nodo raiz; 
+	
+	private class Nodo { // Clase interna 
+		T elem; 
+		Nodo izq, der; 
+		
+		Nodo(T elem) {
+		 this.elem = elem;
+		 } 
+	} 
+	// ... MÉTODOS A IMPLEMENTAR 
+
+Implementación de un AB 
+// ... MÉTODOS A IMPLEMENTAR 
+public void agregar(T elem) {} // 4to 
+public boolean pertenece(T elem) {} // 2do 
+public void quitar(T elem) {} // 5to 
+public int cantElementos() {} // 1ro 
+public int altura() {} // 3ro 
+public boolean estaBalanceado() {} // NORMAL 
+public boolean estaCompleto() {} // HARDCORE 
+// suponiendo que es árbol de enteros. 
+public int minimo() {} // EASY 
+public int maximo() {} // EASY
