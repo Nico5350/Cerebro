@@ -45,9 +45,9 @@ int
 
 ```
 ## Arboles
-Es una estructura de datos y usa recursivida
-Esta formado por nodos y hay un nodo raiz y luego sus hijos tienen herencia.
-siempre empezamos desde la raiz
+-Es una estructura de datos y usa recursividad
+-Todos los datos se almacenan en Nodos y todos son accesibles desde el Nodo raiz
+-Esta formado por nodos y hay un nodo raíz y luego sus hijos tienen herencia, siempre empezamos desde la raíz
 - Nodo Padre
 - Nodo Hijo
 - Nodo Hoja
