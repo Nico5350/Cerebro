@@ -1,5 +1,5 @@
 ## Teoría:
-[[06 - Recursividad y arboles.pdf]]
+[[Recursividad y arboles.pdf]]
 ## 2do Parcial:
 
 TADS Objetos 1:30
@@ -84,7 +84,12 @@ El Árbol completo no lleno que todos los subárboles son de grado 2 mientras el
 #### Árbol Balanceado o Desbalanceado
 El árbol esta balanceado tiene que tener una altura de 1 o menos (tolerancia), y para que este desbalanceado lo contrario
 
-Implementación de un AB - IREP Para implementarlo se debe respetar el siguiente IREP: ● Se puede llegar a todos los nodos desde la raíz ● Cada nodo tiene un solo padre ● No tiene ciclos ● Cada nodo puede tener a lo sumo 2 hijos.
+### Implementación de un AB - IREP 
+Para implementarlo se debe respetar el siguiente IREP: 
+-  Se puede llegar a todos los nodos desde la raíz 
+- Cada nodo tiene un solo padre 
+-  No tiene ciclos 
+- Cada nodo puede tener a lo sumo 2 hijos.
 
 ```bash
 
@@ -114,3 +119,4 @@ public boolean estaCompleto() {} // HARDCORE
 // suponiendo que es árbol de enteros. 
 public int minimo() {} // EASY 
 public int maximo() {} // EASY
+```
