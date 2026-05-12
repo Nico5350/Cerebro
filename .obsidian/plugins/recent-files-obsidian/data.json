@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Juego",
+      "path": "40_Proyectos/01_Activos/Juego/Juego.md"
+    },
+    {
+      "basename": "Bitacora de Proyecto - Juego -",
+      "path": "40_Proyectos/01_Activos/Juego/Bitacora de Proyecto - Juego -.md"
+    },
+    {
       "basename": "12-5-26 Clase virtual Recursividad y Arbol binario",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Apuntes/12-5-26 Clase virtual Recursividad y Arbol binario.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "AdGuard_Home",
       "path": "20_Server/02_Contenedores_Docker/AdGuard/AdGuard_Home.md"
-    },
-    {
-      "basename": "ATM 10 Lite",
-      "path": "20_Server/02_Contenedores_Docker/ATM10 Lite/ATM 10 Lite.md"
-    },
-    {
-      "basename": "Beszel",
-      "path": "20_Server/02_Contenedores_Docker/Beszel/Beszel.md"
     }
   ],
   "omittedPaths": [],
