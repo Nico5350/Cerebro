@@ -44,7 +44,7 @@ int
 ### Insertar en lista ordenada
 
 ```
-## Arboles
+# Arboles
 -Es una estructura de datos y usa recursividad
 -Todos los datos se almacenan en Nodos y todos son accesibles desde el Nodo raíz
 -Esta formado por nodos y hay un nodo raíz y luego sus hijos tienen herencia, siempre empezamos desde la raíz
@@ -68,3 +68,8 @@ Secuencia de nodos adyacentes para llegar de un nodo X a un nodo Y
 Camino que comienza en la raíz y termina en una hoja
 #### *Nivel*
 todos los nodos que están a la misma distancia de la raíz
+
+# Arbol Binario
+Arboles con dos hijos, seria un árbol de grado 2 y ese es su máximo de hijos.
+El subArbol izquierdo y el derecho son arboles binarios O tiene un hijo O no tiene hijos
+![[Pasted image 20260512101327.png]]
