@@ -42,4 +42,7 @@ int busqBin(int[]A, int x){
 }
 int 
 ### Insertar en lista ordenada
-```bash
+
+```
+## Arboles
+siempre empezamos desde la raiz
