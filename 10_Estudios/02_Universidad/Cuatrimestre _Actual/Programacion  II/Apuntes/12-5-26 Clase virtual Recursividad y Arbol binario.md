@@ -46,8 +46,17 @@ int
 ```
 ## Arboles
 -Es una estructura de datos y usa recursividad
--Todos los datos se almacenan en Nodos y todos son accesibles desde el Nodo raiz
+-Todos los datos se almacenan en Nodos y todos son accesibles desde el Nodo raíz
 -Esta formado por nodos y hay un nodo raíz y luego sus hijos tienen herencia, siempre empezamos desde la raíz
-- Nodo Padre
-- Nodo Hijo
-- Nodo Hoja
+### Como se forman los nodos:
+un arbol constanta de un conjunto finito de elementos
+- Nodo Raíz: el único sin padre
+- Nodo Internos: Nodos con unos o mas hijos 
+- Nodo Hoja: Nodos sin hijos
+
+#### *Altura*: desde el nodo raíz a la hoja mas lejana
+#### *Grado*: cantidad maximas de nodos/hijos dsp de la raiz
+#### *Niveles* la raiz es nivel 1 y desde alli empieza a bajar, por ejemplos los hijos del nodo raiz serian el nivel 2
+
+#### *Camino*: Secuencia de nodos adyacentes para llegar de un nodo X a un nodo Y
+#### *Rama*
