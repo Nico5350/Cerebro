@@ -5,6 +5,18 @@
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/2do parcial SO.md"
     },
     {
+      "basename": "Sistemas Operativos y Redes",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Sistemas Operativos y Redes.md"
+    },
+    {
+      "basename": "Guía Práctica de Capa de Red_ IP y Subnetting",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/Guía Práctica de Capa de Red_ IP y Subnetting.pdf"
+    },
+    {
+      "basename": "Guía Práctica de Capas de Transporte y Aplicacion",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/Guía Práctica de Capas de Transporte y Aplicacion.pdf"
+    },
+    {
       "basename": "Repaso_parcial",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Apuntes/Repaso_parcial.pdf"
     },
@@ -15,14 +27,6 @@
     {
       "basename": "01-Introduccion a Redes",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/01-Introduccion a Redes.pdf"
-    },
-    {
-      "basename": "00 Links Videos",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/00 Links Videos.md"
-    },
-    {
-      "basename": "Parciales Sistemas Operativos y Redes",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Parciales Sistemas Operativos y Redes.md"
     },
     {
       "basename": "07-Red TCP-UDP",
@@ -121,10 +125,6 @@
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/04-Introduccion a Ethernet.pdf"
     },
     {
-      "basename": "Guía Práctica de Capa de Red_ IP y Subnetting.docx",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/Guía Práctica de Capa de Red_ IP y Subnetting.docx.pdf"
-    },
-    {
       "basename": "Plan de estudios",
       "path": "10_Estudios/02_Universidad/Plan de estudios.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "Sistema de numeracion",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Teoria/Sistema de numeracion.md"
-    },
-    {
-      "basename": "Representacion de texto",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Teoria/Representacion de texto.md"
     }
   ],
   "omittedPaths": [],

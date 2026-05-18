@@ -1,5 +1,8 @@
 Mas teórico que nada, poca practica
 Entra:
+# Teoria:
 ## - Capa 3 (ejercicios de mascara)
 ## Capa 4 (Transporte)
-## - Enrutamiento
+## - Algoritmos de enrutamiento
+
+# Practico:
