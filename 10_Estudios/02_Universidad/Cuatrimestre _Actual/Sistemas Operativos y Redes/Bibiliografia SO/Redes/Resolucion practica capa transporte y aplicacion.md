@@ -17,8 +17,19 @@ c) FALSO - El orden de empaquetado Datos → Segmento → Paquete → Trama → 
 
 ### Ejercicio 3:
 Si el tamaño de la ventana de transmisión cambia de 3000 a 4000 durante la transferencia de datos de una sesión TCP, ¿qué puede hacer la terminal que está enviando? 
+
 a) Transmitir 4000 bytes antes de esperar por un ack 
 b) Transmitir 3000 tramas antes de esperar por un ack 
 c) Transmitir 4000 segmentos antes de esperar por un ack 
 d) Transmitir 4000 paquetes antes de esperar por un ack
 e) Transmitir 3000 bytes antes de esperar por un ack
+
+la repuesta es la A como cambia de 3mil a 4mil duir
+
+# Capa de Aplicación 
+### Ejercicio 1 
+En qué consiste el protocolo HTTP? Cómo se relaciona con el protocolo DNS? 
+### Ejercicio 2 
+Indique para cada uno de los protocolos enunciados, la definición que más se asemeja: 
+### Ejercicio 3
+Describir detalladamente el protocolo DNS
