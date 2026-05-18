@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "2do parcial SO",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/2do parcial SO.md"
+    },
+    {
+      "basename": "Repaso_parcial",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Apuntes/Repaso_parcial.pdf"
+    },
+    {
       "basename": "18-05-2026",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Apuntes/18-05-2026.md"
+    },
+    {
+      "basename": "01-Introduccion a Redes",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/01-Introduccion a Redes.pdf"
+    },
+    {
+      "basename": "00 Links Videos",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/00 Links Videos.md"
+    },
+    {
+      "basename": "Parciales Sistemas Operativos y Redes",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Parciales Sistemas Operativos y Redes.md"
     },
     {
       "basename": "07-Red TCP-UDP",
@@ -87,10 +107,6 @@
     {
       "basename": "Recursividad",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Bibiliografia progra2/Arboles/Recursividad.pdf"
-    },
-    {
-      "basename": "01-Introduccion a Redes",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/01-Introduccion a Redes.pdf"
     },
     {
       "basename": "02-Modelo OSI",
@@ -183,22 +199,6 @@
     {
       "basename": "Representacion de texto",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Teoria/Representacion de texto.md"
-    },
-    {
-      "basename": "Punto flotante",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Teoria/Punto flotante.md"
-    },
-    {
-      "basename": "Estructuras de control de flujo_subrutinas",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Estructuras de control de flujo_subrutinas.pdf"
-    },
-    {
-      "basename": "Modos de direccionamiento ARM-2025",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Modos de direccionamiento ARM-2025.pdf"
-    },
-    {
-      "basename": "Presentación Interrupciones con arhivos 2024 - v1",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Presentación Interrupciones con arhivos 2024 - v1.pdf"
     }
   ],
   "omittedPaths": [],
