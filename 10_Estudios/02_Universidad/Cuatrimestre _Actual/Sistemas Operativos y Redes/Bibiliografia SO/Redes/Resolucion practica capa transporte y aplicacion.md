@@ -24,12 +24,19 @@ c) Transmitir 4000 segmentos antes de esperar por un ack
 d) Transmitir 4000 paquetes antes de esperar por un ack
 e) Transmitir 3000 bytes antes de esperar por un ack
 
-la repuesta es la A como cambia de 3mil a 4mil duir
+#### la repuesta es la A como cambia de 3mil a 4mil durante la transferencia, ese msj es de 4mil, entonces espera del receptor 4mil y recién ahi lo manda. Ventana = bytes
 
 # Capa de Aplicación 
 ### Ejercicio 1 
 En qué consiste el protocolo HTTP? Cómo se relaciona con el protocolo DNS? 
 ### Ejercicio 2 
 Indique para cada uno de los protocolos enunciados, la definición que más se asemeja: 
-### Ejercicio 3
+Protocolo | Definicion
+	1            UDP   -->     No orientado a la conexion
+	2            ARP    -->    traduce direcciones IP a direcciones MAC
+	3           DHCP  -->    Asigna direcciones IP de forma dinamica
+	4            TCP     -->   Orientado a la conexion
+	5            PAT     -->   Tranforma direcciones IP
+	
+### Ejercicio 3(mas de parcial)
 Describir detalladamente el protocolo DNS
