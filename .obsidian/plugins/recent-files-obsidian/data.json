@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Indice",
+      "path": "70_CClicker3D/Indice.md"
+    },
+    {
+      "basename": "Danzante de filo",
+      "path": "50_Personal/01_Cosmere/Biblioteca/Portadas/Danzante de filo.jpg"
+    },
+    {
       "basename": "Juego",
       "path": "40_Proyectos/01_Activos/Juego/Juego.md"
     },
@@ -87,10 +95,6 @@
     {
       "basename": "00_Inicio",
       "path": "00_Sistema/00_Inicio.md"
-    },
-    {
-      "basename": "Drawing 2026-05-08 12.05.42.excalidraw",
-      "path": "Excalidraw/Drawing 2026-05-08 12.05.42.excalidraw.md"
     },
     {
       "basename": "U42 Álgebra de Boole_V2025",
@@ -191,14 +195,6 @@
     {
       "basename": "Bitacora",
       "path": "20_Server/01_Bitacoras de Server/Bitacora.md"
-    },
-    {
-      "basename": "Inidice de Bitacoras",
-      "path": "20_Server/01_Bitacoras de Server/Inidice de Bitacoras.md"
-    },
-    {
-      "basename": "AdGuard_Home",
-      "path": "20_Server/02_Contenedores_Docker/AdGuard/AdGuard_Home.md"
     }
   ],
   "omittedPaths": [],
