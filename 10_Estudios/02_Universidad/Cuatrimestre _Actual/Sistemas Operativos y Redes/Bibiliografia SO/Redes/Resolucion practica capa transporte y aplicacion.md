@@ -36,7 +36,21 @@ Protocolo | Definicion
 	2            ARP    -->    traduce direcciones IP a direcciones MAC
 	3           DHCP  -->    Asigna direcciones IP de forma dinamica
 	4            TCP     -->   Orientado a la conexion
-	5            PAT     -->   Tranforma direcciones IP
+	5            PAT     -->   Tranforma direcciones IP 
 	
 ### Ejercicio 3(mas de parcial)
 Describir detalladamente el protocolo DNS
+DNS (Domain Name System) es un sistema jerárquico y distribuido que traduce nombres de 
+#### dominio en direcciones IP.
+- Funciona principalmente sobre UDP
+- Distribución mundial
+- Base de datos jerárquica (?)
+#### Proceso de resolución (protocolo DNS):
+1. El cliente consulta al servidor DNS local
+2. Si no conoce la respuesta:
+3. Consulta a un servidor raíz
+4. Luego a los distintos servidores de los distintas extensiones de dominio
+5. Obtiene la IP
+6. Se guarda en caché para la próxima
+
+Packet tracer version en moodle.
