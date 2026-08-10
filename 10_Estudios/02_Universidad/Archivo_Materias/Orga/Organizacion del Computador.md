@@ -1,7 +1,7 @@
 ---
 materia: Orga
 estado:
-  - 📖 Cursando
+  - ✅ Terminado
 cuatrimestre: 2025-2C
 tags:
   - universidad

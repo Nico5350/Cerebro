@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Plan de estudios",
+      "path": "10_Estudios/02_Universidad/Plan de estudios.md"
+    },
+    {
+      "basename": "índice de archivo de materias",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/índice de archivo de materias.md"
+    },
+    {
+      "basename": "Organizacion del Computador",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Organizacion del Computador.md"
+    },
+    {
+      "basename": "Lista Pendientes",
+      "path": "40_Proyectos/01_Activos/TowerDefense/Lista Pendientes.md"
+    },
+    {
+      "basename": "GDD",
+      "path": "40_Proyectos/01_Activos/TowerDefense/GDD.md"
+    },
+    {
       "basename": "18-05-2026 (DNS y HTTP)",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Apuntes/18-05-2026 (DNS y HTTP).md"
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Apuntes/18-05-2026 (DNS y HTTP).md"
     },
     {
       "basename": "Guía Práctica de Capa de Red_ IP y Subnetting",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/Guía Práctica de Capa de Red_ IP y Subnetting.pdf"
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Bibiliografia SO/Redes/Guía Práctica de Capa de Red_ IP y Subnetting.pdf"
     },
     {
       "basename": "2do parcial SO",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/2do parcial SO.md"
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/2do parcial SO.md"
     },
     {
       "basename": "Indice estudios",
@@ -18,27 +38,27 @@
     },
     {
       "basename": "Repaso_parcial",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Apuntes/Repaso_parcial.pdf"
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Apuntes/Repaso_parcial.pdf"
     },
     {
       "basename": "Sistemas Operativos y Redes",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Sistemas Operativos y Redes.md"
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Sistemas Operativos y Redes.md"
     },
     {
       "basename": "01-Introduccion a Redes",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/01-Introduccion a Redes.pdf"
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Bibiliografia SO/Redes/01-Introduccion a Redes.pdf"
     },
     {
       "basename": "07-Red TCP-UDP",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/07-Red TCP-UDP.pdf"
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Bibiliografia SO/Redes/07-Red TCP-UDP.pdf"
     },
     {
       "basename": "05-Red TCP-IP",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/05-Red TCP-IP.pdf"
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Bibiliografia SO/Redes/05-Red TCP-IP.pdf"
     },
     {
       "basename": "06-Capa de Aplicacion",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/06-Capa de Aplicacion.pdf"
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Bibiliografia SO/Redes/06-Capa de Aplicacion.pdf"
     },
     {
       "basename": "07_Lista de compras",
@@ -73,24 +93,16 @@
       "path": "50_Personal/01_Cosmere/Biblioteca/Portadas/Danzante de filo.jpg"
     },
     {
-      "basename": "Juego",
-      "path": "40_Proyectos/01_Activos/Juego/Juego.md"
-    },
-    {
       "basename": "Recursividad y arboles",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Bibiliografia progra2/Arboles/Recursividad y arboles.pdf"
-    },
-    {
-      "basename": "Bitacora de Proyecto - Juego -",
-      "path": "40_Proyectos/01_Activos/Juego/Bitacora de Proyecto - Juego -.md"
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Programacion  II/Bibiliografia progra2/Arboles/Recursividad y arboles.pdf"
     },
     {
       "basename": "12-5-26 Clase virtual Recursividad y Arbol binario",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Apuntes/12-5-26 Clase virtual Recursividad y Arbol binario.md"
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Programacion  II/Apuntes/12-5-26 Clase virtual Recursividad y Arbol binario.md"
     },
     {
       "basename": "17-03-2026 Complejidad Algorítmica y Asintótica",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Apuntes/17-03-2026 Complejidad Algorítmica y Asintótica.md"
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Programacion  II/Apuntes/17-03-2026 Complejidad Algorítmica y Asintótica.md"
     },
     {
       "basename": "Codigo Godot",
@@ -102,31 +114,27 @@
     },
     {
       "basename": "07-4-2026 Tads y Estructura de datos",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Apuntes/07-4-2026 Tads y Estructura de datos.md"
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Programacion  II/Apuntes/07-4-2026 Tads y Estructura de datos.md"
     },
     {
       "basename": "14-4-2026 Clase repaso",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Apuntes/14-4-2026 Clase repaso.md"
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Programacion  II/Apuntes/14-4-2026 Clase repaso.md"
     },
     {
       "basename": "Recursividad",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion  II/Bibiliografia progra2/Arboles/Recursividad.pdf"
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Programacion  II/Bibiliografia progra2/Arboles/Recursividad.pdf"
     },
     {
       "basename": "02-Modelo OSI",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/02-Modelo OSI.pdf"
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Bibiliografia SO/Redes/02-Modelo OSI.pdf"
     },
     {
       "basename": "03-Capa de Enlance",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/03-Capa de Enlance.pdf"
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Bibiliografia SO/Redes/03-Capa de Enlance.pdf"
     },
     {
       "basename": "04-Introduccion a Ethernet",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Sistemas Operativos y Redes/Bibiliografia SO/Redes/04-Introduccion a Ethernet.pdf"
-    },
-    {
-      "basename": "Plan de estudios",
-      "path": "10_Estudios/02_Universidad/Plan de estudios.md"
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Bibiliografia SO/Redes/04-Introduccion a Ethernet.pdf"
     },
     {
       "basename": "Cartilla de instrucciones",

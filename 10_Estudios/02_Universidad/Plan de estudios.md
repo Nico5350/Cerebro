@@ -15,24 +15,24 @@ materias_aprobadas: 7
 
 ##  Mapa de Materias (Estado Real)
 
-| Materia                             | Estado      | Nota |
-| :---------------------------------- | :---------- | :--- |
-| **Intro. a la Programación**        | ✅ Aprobada  | 8    |
-| **[[Programación I]]**              | ✅ Aprobada  | 7    |
-| **Matemática Discreta**             | ✅ Aprobada  | 7    |
-| **Problemas Socioeconómicos**       | ✅ Aprobada  | 7    |
-| **Inglés Lectocomprensión I**       | ✅ Aprobada  | A    |
-| **Inglés Lectocomprensión II**      | ✅ Aprobada  | A    |
-| **Introducción a la Matemática**    | ✅ Aprobada  | A    |
-| **[[Organizacion del Computador]]** | 🟡 En Curso | -    |
-| **[[Lógica y Teoría de Números]]**  | 🟡 En Curso | -    |
-| **[[Programación II]]**             | 🟡 En Curso | -    |
-| **[[Sistemas Operativos y Redes]]** | 🟡 En Curso | -    |
-| **Programación III**                | ⏳ Pendiente | -    |
-| **Ingeniería de Software**          | ⏳ Pendiente | -    |
-| **Especificación de Software**      | ⏳ Pendiente | -    |
-| **Gestión de Bases de Datos**       | ⏳ Pendiente | -    |
-| **Lab. de Construcción de SW**      | ⏳ Pendiente | -    |
+| Materia                             | Estado         | Nota |
+| :---------------------------------- | :------------- | :--- |
+| **Intro. a la Programación**        | ✅ Aprobada     | 8    |
+| **[[Programación I]]**              | ✅ Aprobada     | 7    |
+| **Matemática Discreta**             | ✅ Aprobada     | 7    |
+| **Problemas Socioeconómicos**       | ✅ Aprobada     | 7    |
+| **Inglés Lectocomprensión I**       | ✅ Aprobada     | A    |
+| **Inglés Lectocomprensión II**      | ✅ Aprobada     | A    |
+| **Introducción a la Matemática**    | ✅ Aprobada     | A    |
+| **[[Organizacion del Computador]]** | ✅ Aprobada     | 8    |
+| **[[Lógica y Teoría de Números]]**  | 🟡 En Curso    | -    |
+| **[[Programación II]]**             | ⏳ Regularizada | -    |
+| **[[Sistemas Operativos y Redes]]** | ⏳ Regularizada | -    |
+| **Programación III**                | 🟡 En Curso    | -    |
+| **Ingeniería de Software**          | ⏳ Pendiente    | -    |
+| **Especificación de Software**      | ⏳ Pendiente    | -    |
+| **Gestión de Bases de Datos**       | ⏳ Pendiente    | -    |
+| **Lab. de Construcción de SW**      | ⏳ Pendiente    | -    |
 
 ---
 
