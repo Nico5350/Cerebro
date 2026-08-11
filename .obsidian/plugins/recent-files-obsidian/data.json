@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled Kanban",
+      "path": "40_Proyectos/01_Activos/TowerDefense/Untitled Kanban.md"
+    },
+    {
+      "basename": "Lista Pendientes",
+      "path": "40_Proyectos/01_Activos/TowerDefense/Lista Pendientes.md"
+    },
+    {
+      "basename": "GAME DESIGN DOCUMENT (GDD)",
+      "path": "40_Proyectos/01_Activos/TowerDefense/GAME DESIGN DOCUMENT (GDD).md"
+    },
+    {
       "basename": "Teóricas LyTN",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/2/Teóricas LyTN.pdf"
     },
@@ -23,14 +35,6 @@
     {
       "basename": "Organizacion del Computador",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Organizacion del Computador.md"
-    },
-    {
-      "basename": "Lista Pendientes",
-      "path": "40_Proyectos/01_Activos/TowerDefense/Lista Pendientes.md"
-    },
-    {
-      "basename": "GDD",
-      "path": "40_Proyectos/01_Activos/TowerDefense/GDD.md"
     },
     {
       "basename": "18-05-2026 (DNS y HTTP)",
@@ -195,10 +199,6 @@
     {
       "basename": "ARMInterrupciones",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/ARMInterrupciones.pdf"
-    },
-    {
-      "basename": "Punto flotante_clase_presencial 2025",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Punto flotante_clase_presencial 2025.pdf"
     }
   ],
   "omittedPaths": [],
