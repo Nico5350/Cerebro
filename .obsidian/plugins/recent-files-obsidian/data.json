@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Presentacion",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion III/Teoria/Presentacion.pdf"
+    },
+    {
       "basename": "Plan de estudios",
       "path": "10_Estudios/02_Universidad/Plan de estudios.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "U2 Memorias MPpal Jerarquía Tipos 2025",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/U2 Memorias MPpal Jerarquía Tipos 2025.pdf"
-    },
-    {
-      "basename": "Sistema de numeracion",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Teoria/Sistema de numeracion.md"
     }
   ],
   "omittedPaths": [],
