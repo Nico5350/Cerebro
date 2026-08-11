@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Teóricas LyTN",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/2/Teóricas LyTN.pdf"
+    },
+    {
+      "basename": "EquivalenciasLogicaProposicional",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/2/Equivalencias/EquivalenciasLogicaProposicional.pdf"
+    },
+    {
       "basename": "Presentacion",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion III/Teoria/Presentacion.pdf"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Punto flotante_clase_presencial 2025",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Punto flotante_clase_presencial 2025.pdf"
-    },
-    {
-      "basename": "Sistemas de Representación_2024",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Sistemas de Representación_2024.pdf"
-    },
-    {
-      "basename": "U2 Memorias MPpal Jerarquía Tipos 2025",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/U2 Memorias MPpal Jerarquía Tipos 2025.pdf"
     }
   ],
   "omittedPaths": [],
