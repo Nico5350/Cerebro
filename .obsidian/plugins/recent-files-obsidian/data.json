@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Clase 19-8-26",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Organizacion del Computador II/Apuntes/Clase 19-8-26.md"
+    },
+    {
+      "basename": "Repaso - Organización del Computador I - Repaso - OC 2023",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Organizacion del Computador II/Teoria/Repaso - Organización del Computador I - Repaso - OC 2023.pdf"
+    },
+    {
+      "basename": "07-03-2026 Acumuladores Booleanos y Matrices",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Programacion  II/Apuntes/07-03-2026 Acumuladores Booleanos y Matrices.md"
+    },
+    {
       "basename": "Lista Pendientes",
       "path": "40_Proyectos/01_Activos/TowerDefense/Lista Pendientes.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "pto fotante Lautaro",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/pto fotante Lautaro.pdf"
-    },
-    {
-      "basename": "Control de flujo",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/ARM/Control de flujo.md"
-    },
-    {
-      "basename": "Estructura de un programa e instrucciones ARM",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Estructura de un programa e instrucciones ARM.pdf"
-    },
-    {
-      "basename": "ARMInterrupciones",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/ARMInterrupciones.pdf"
     }
   ],
   "omittedPaths": [],
