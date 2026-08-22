@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Basico pull",
+      "path": "10_Estudios/01_Autodidacta/Git/Basico pull.md"
+    },
+    {
+      "basename": "Git obsidian",
+      "path": "10_Estudios/01_Autodidacta/Git/Git obsidian.md"
+    },
+    {
+      "basename": "01_Terminal",
+      "path": "60_CachyOS/01_Terminal.md"
+    },
+    {
+      "basename": "Codigo Godot",
+      "path": "30_Código/01_Godot/Codigo Godot.md"
+    },
+    {
       "basename": "Clase 19-8-26",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Organizacion del Computador II/Apuntes/Clase 19-8-26.md"
     },
@@ -133,10 +149,6 @@
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Programacion  II/Apuntes/17-03-2026 Complejidad Algorítmica y Asintótica.md"
     },
     {
-      "basename": "Codigo Godot",
-      "path": "30_Código/01_Godot/Codigo Godot.md"
-    },
-    {
       "basename": "índice de Código",
       "path": "30_Código/índice de Código.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Entrada-Salida Interrupciones",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/ARM/Entrada-Salida Interrupciones.md"
-    },
-    {
-      "basename": "ARMInstrucciones_logicas",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/ARMInstrucciones_logicas.pdf"
-    },
-    {
-      "basename": "Sistema de representacion",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Teoria/Sistema de representacion.md"
-    },
-    {
-      "basename": "pto fotante Lautaro",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/pto fotante Lautaro.pdf"
     }
   ],
   "omittedPaths": [],

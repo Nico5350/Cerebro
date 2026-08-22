@@ -99,50 +99,28 @@ git clone https://github.com/TUUSUARIO/mi-boveda.git C:\ruta\donde\quieras
 
 ---
 
-## 🔌 PARTE 3 — Plugin Obsidian Git
-
-### Instalar el plugin
-
-1. Obsidian → Configuración → Plugins de la comunidad
-2. Buscar **Obsidian Git**
-3. Instalar y **activar**
-4. Hacer esto en **ambos sistemas**
-
-### Configuración recomendada del plugin
-
-|Opción|Valor recomendado|
-|---|---|
-|Auto backup interval|`10` minutos|
-|Auto backup on file change|Activado|
-|Auto pull interval|`10` minutos|
-|Pull on startup|Activado ✅|
-|Push on backup|Activado ✅|
-|Commit message|`boveda: {{date}}`|
-
-### Atajos útiles del plugin
-
-|Atajo|Acción|
-|---|---|
-|`Ctrl + Shift + G`|Abrir panel de Git|
-|Paleta de comandos → `Obsidian Git`|Ver todos los comandos|
-
----
-
-## 🔄 Flujo de uso diario
+# 4. Utilizar una Branch
 
 ```
-Al abrir Obsidian → pull automático (baja cambios)
-      ↓
-   Trabajás normalmente
-      ↓
-Cada 10 min → commit + push automático
-      ↓
-Al abrir en el otro sistema → pull trae todo al día
+# Guardar los cambios
+git add .
+git commit -m "Añadida nueva mecánica al Tower Defense"
+#Pushear a la rama
+git push -u "Rama"
+
+
+# 2. Vuelve a la rama principal (suele llamarse main o master)
+git switch main
+
+# 3. Descarga las novedades que hayan subido tus compañeros (CRÍTICO)
+git pull origin main
+
+# 4. Fusiona tu rama de pruebas hacia la principal
+git merge implementacion-recursos
+
+# 5. Sube el juego actualizado con todos los cambios integrados
+git push origin main
 ```
-
-### Si querés hacer push manual
-
-- Paleta de comandos (`Ctrl + P`) → `Obsidian Git: Commit and push`
 
 ---
 
