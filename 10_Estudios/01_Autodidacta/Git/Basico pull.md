@@ -2,10 +2,9 @@
 
 ## 1. Descargar (Clonar) un proyecto desde cero
 Si es la primera vez que configuras
-`bash
+
 git clone <URL-DEL-REPOSITORIO>
 cd <nombre-de-la-carpeta-del-proyecto>
-`
 
 Si el proyecto ya está clonado pero necesitas traer los últimos cambios del servidor:
 

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2-9-2026",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Organizacion del Computador II/Apuntes/2-9-2026.md"
+    },
+    {
+      "basename": "Estructura de Almacenamiento Masivo.docx - Estructura de Almacenamiento Masivo.docx",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes II/Teoria/Almacenamiento Masivo/Estructura de Almacenamiento Masivo.docx - Estructura de Almacenamiento Masivo.docx.pdf"
+    },
+    {
+      "basename": "2-Planificacion de Discos y RAID.pptx",
+      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes II/Teoria/Almacenamiento Masivo/2-Planificacion de Discos y RAID.pptx.pdf"
+    },
+    {
       "basename": "Basico pull",
       "path": "10_Estudios/01_Autodidacta/Git/Basico pull.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "U42 Álgebra de Boole_V2025",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/U42 Álgebra de Boole_V2025.pdf"
-    },
-    {
-      "basename": "Unidad 4 Compuertas Lógicas_V24",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Unidad 4 Compuertas Lógicas_V24.pdf"
-    },
-    {
-      "basename": "V1_COM1- Introduccion-Cómo y Qué_2022_1C",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/V1_COM1- Introduccion-Cómo y Qué_2022_1C.pdf"
-    },
-    {
-      "basename": "Entrada-Salida Interrupciones",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/ARM/Entrada-Salida Interrupciones.md"
     }
   ],
   "omittedPaths": [],
