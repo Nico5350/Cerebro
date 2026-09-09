@@ -5,200 +5,24 @@
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Organizacion del Computador II/Apuntes/Clase 9-9-26.md"
     },
     {
-      "basename": "Clase 19-8-26",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Organizacion del Computador II/Apuntes/Clase 19-8-26.md"
-    },
-    {
       "basename": "Clase 26-8-26",
       "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Organizacion del Computador II/Apuntes/Clase 26-8-26.md"
     },
     {
-      "basename": "Basico pull",
-      "path": "10_Estudios/01_Autodidacta/Git/Basico pull.md"
+      "basename": "Clase 19-8-26",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Organizacion del Computador II/Apuntes/Clase 19-8-26.md"
     },
     {
-      "basename": "Git obsidian",
-      "path": "10_Estudios/01_Autodidacta/Git/Git obsidian.md"
+      "basename": "Pasted image 20260902192026",
+      "path": "Pasted image 20260902192026.png"
     },
     {
-      "basename": "01_Terminal",
-      "path": "60_CachyOS/01_Terminal.md"
+      "basename": "Pasted image 20260902191304",
+      "path": "Pasted image 20260902191304.png"
     },
     {
-      "basename": "Codigo Godot",
-      "path": "30_Código/01_Godot/Codigo Godot.md"
-    },
-    {
-      "basename": "Repaso - Organización del Computador I - Repaso - OC 2023",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Organizacion del Computador II/Teoria/Repaso - Organización del Computador I - Repaso - OC 2023.pdf"
-    },
-    {
-      "basename": "07-03-2026 Acumuladores Booleanos y Matrices",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Programacion  II/Apuntes/07-03-2026 Acumuladores Booleanos y Matrices.md"
-    },
-    {
-      "basename": "Lista Pendientes",
-      "path": "40_Proyectos/01_Activos/TowerDefense/Lista Pendientes.md"
-    },
-    {
-      "basename": "GAME DESIGN DOCUMENT (GDD)",
-      "path": "40_Proyectos/01_Activos/TowerDefense/GAME DESIGN DOCUMENT (GDD).md"
-    },
-    {
-      "basename": "Explorador",
-      "path": "40_Proyectos/01_Activos/TowerDefense/Enemigos/Explorador.md"
-    },
-    {
-      "basename": "Teóricas LyTN",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/2/Teóricas LyTN.pdf"
-    },
-    {
-      "basename": "EquivalenciasLogicaProposicional",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Logica y Teoria de los numeros/2/Equivalencias/EquivalenciasLogicaProposicional.pdf"
-    },
-    {
-      "basename": "Presentacion",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Programacion III/Teoria/Presentacion.pdf"
-    },
-    {
-      "basename": "Plan de estudios",
-      "path": "10_Estudios/02_Universidad/Plan de estudios.md"
-    },
-    {
-      "basename": "índice de archivo de materias",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/índice de archivo de materias.md"
-    },
-    {
-      "basename": "Organizacion del Computador",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/Organizacion del Computador.md"
-    },
-    {
-      "basename": "18-05-2026 (DNS y HTTP)",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Apuntes/18-05-2026 (DNS y HTTP).md"
-    },
-    {
-      "basename": "Guía Práctica de Capa de Red_ IP y Subnetting",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Bibiliografia SO/Redes/Guía Práctica de Capa de Red_ IP y Subnetting.pdf"
-    },
-    {
-      "basename": "2do parcial SO",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/2do parcial SO.md"
-    },
-    {
-      "basename": "Indice estudios",
-      "path": "10_Estudios/Indice estudios.md"
-    },
-    {
-      "basename": "Repaso_parcial",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Apuntes/Repaso_parcial.pdf"
-    },
-    {
-      "basename": "Sistemas Operativos y Redes",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Sistemas Operativos y Redes.md"
-    },
-    {
-      "basename": "01-Introduccion a Redes",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Bibiliografia SO/Redes/01-Introduccion a Redes.pdf"
-    },
-    {
-      "basename": "07-Red TCP-UDP",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Bibiliografia SO/Redes/07-Red TCP-UDP.pdf"
-    },
-    {
-      "basename": "05-Red TCP-IP",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Bibiliografia SO/Redes/05-Red TCP-IP.pdf"
-    },
-    {
-      "basename": "06-Capa de Aplicacion",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Bibiliografia SO/Redes/06-Capa de Aplicacion.pdf"
-    },
-    {
-      "basename": "07_Lista de compras",
-      "path": "70_CClicker3D/07_Lista de compras.md"
-    },
-    {
-      "basename": "01_Indice",
-      "path": "70_CClicker3D/01_Indice.md"
-    },
-    {
-      "basename": "06_Errores y comunidad",
-      "path": "70_CClicker3D/06_Errores y comunidad.md"
-    },
-    {
-      "basename": "05_Diseños y paginas",
-      "path": "70_CClicker3D/05_Diseños y paginas.md"
-    },
-    {
-      "basename": "04_Costos y como vender",
-      "path": "70_CClicker3D/04_Costos y como vender.md"
-    },
-    {
-      "basename": "03_Configuracion y Filamentos",
-      "path": "70_CClicker3D/03_Configuracion y Filamentos.md"
-    },
-    {
-      "basename": "02_Especificaciones y Calibracion",
-      "path": "70_CClicker3D/02_Especificaciones y Calibracion.md"
-    },
-    {
-      "basename": "Danzante de filo",
-      "path": "50_Personal/01_Cosmere/Biblioteca/Portadas/Danzante de filo.jpg"
-    },
-    {
-      "basename": "Recursividad y arboles",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Programacion  II/Bibiliografia progra2/Arboles/Recursividad y arboles.pdf"
-    },
-    {
-      "basename": "12-5-26 Clase virtual Recursividad y Arbol binario",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Programacion  II/Apuntes/12-5-26 Clase virtual Recursividad y Arbol binario.md"
-    },
-    {
-      "basename": "17-03-2026 Complejidad Algorítmica y Asintótica",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Programacion  II/Apuntes/17-03-2026 Complejidad Algorítmica y Asintótica.md"
-    },
-    {
-      "basename": "índice de Código",
-      "path": "30_Código/índice de Código.md"
-    },
-    {
-      "basename": "07-4-2026 Tads y Estructura de datos",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Programacion  II/Apuntes/07-4-2026 Tads y Estructura de datos.md"
-    },
-    {
-      "basename": "14-4-2026 Clase repaso",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Programacion  II/Apuntes/14-4-2026 Clase repaso.md"
-    },
-    {
-      "basename": "Recursividad",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Programacion  II/Bibiliografia progra2/Arboles/Recursividad.pdf"
-    },
-    {
-      "basename": "02-Modelo OSI",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Bibiliografia SO/Redes/02-Modelo OSI.pdf"
-    },
-    {
-      "basename": "03-Capa de Enlance",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Bibiliografia SO/Redes/03-Capa de Enlance.pdf"
-    },
-    {
-      "basename": "04-Introduccion a Ethernet",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Sistemas Operativos y Redes/Bibiliografia SO/Redes/04-Introduccion a Ethernet.pdf"
-    },
-    {
-      "basename": "Cartilla de instrucciones",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/ARM/Cartilla de instrucciones.md"
-    },
-    {
-      "basename": "00_Inicio",
-      "path": "00_Sistema/00_Inicio.md"
-    },
-    {
-      "basename": "U42 Álgebra de Boole_V2025",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/U42 Álgebra de Boole_V2025.pdf"
-    },
-    {
-      "basename": "Unidad 4 Compuertas Lógicas_V24",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Unidad 4 Compuertas Lógicas_V24.pdf"
+      "basename": "Pasted image 20260902190646",
+      "path": "Pasted image 20260902190646.png"
     }
   ],
   "omittedPaths": [],

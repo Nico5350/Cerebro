@@ -532,9 +532,83 @@
       "folder": "copilot/skills"
     }
   },
-  "providers": {},
-  "configuredModels": [],
-  "backends": {},
+  "providers": {
+    "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e": {
+      "providerType": "anthropic",
+      "displayName": "Claude",
+      "origin": {
+        "kind": "agent",
+        "agentType": "claude"
+      },
+      "requiresApiKey": false,
+      "providerId": "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e",
+      "addedAt": 1788385248356,
+      "apiKeyKeychainId": null
+    }
+  },
+  "configuredModels": [
+    {
+      "providerId": "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e",
+      "info": {
+        "id": "default",
+        "displayName": "Default (recommended)",
+        "description": "Sonnet 5 · Efficient for routine tasks"
+      },
+      "configuredModelId": "8ac40a19-1c53-4f7f-9d7b-82addfe176b0",
+      "configuredAt": 1788385248910
+    },
+    {
+      "providerId": "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e",
+      "info": {
+        "id": "sonnet",
+        "displayName": "Sonnet",
+        "description": "Sonnet 5 · Efficient for routine tasks"
+      },
+      "configuredModelId": "9d5c5275-01f6-454c-be44-54561cb8d1d3",
+      "configuredAt": 1788385248911
+    },
+    {
+      "providerId": "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e",
+      "info": {
+        "id": "claude-fable-5-1[1m]",
+        "displayName": "Fable",
+        "description": "Fable 5.1 · Most capable for your hardest and longest-running tasks · Requires usage credits"
+      },
+      "configuredModelId": "1ea8d4eb-db0c-49c0-9481-1a7134c281ed",
+      "configuredAt": 1788385248911
+    },
+    {
+      "providerId": "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e",
+      "info": {
+        "id": "opus",
+        "displayName": "Opus",
+        "description": "Opus 5 · Best for everyday, complex tasks · ~2× usage vs Sonnet"
+      },
+      "configuredModelId": "676356c8-e37f-47a1-be1f-6105ccad8bdb",
+      "configuredAt": 1788385248912
+    },
+    {
+      "providerId": "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e",
+      "info": {
+        "id": "haiku",
+        "displayName": "Haiku",
+        "description": "Haiku 4.5 · Fastest for quick answers"
+      },
+      "configuredModelId": "4d65c62e-1914-4a96-96d4-df038fa2d3fe",
+      "configuredAt": 1788385248912
+    }
+  ],
+  "backends": {
+    "claude": {
+      "enabledModels": [
+        "8ac40a19-1c53-4f7f-9d7b-82addfe176b0",
+        "9d5c5275-01f6-454c-be44-54561cb8d1d3",
+        "1ea8d4eb-db0c-49c0-9481-1a7134c281ed",
+        "676356c8-e37f-47a1-be1f-6105ccad8bdb",
+        "4d65c62e-1914-4a96-96d4-df038fa2d3fe"
+      ]
+    }
+  },
   "generateAIChatTitleOnSave": true,
   "showRelevantNotes": true,
   "projectListSortStrategy": "recent",
