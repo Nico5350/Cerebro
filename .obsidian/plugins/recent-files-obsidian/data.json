@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Clase 9-9-26",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Organizacion del Computador II/Apuntes/Clase 9-9-26.md"
+    },
+    {
+      "basename": "Clase 19-8-26",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Organizacion del Computador II/Apuntes/Clase 19-8-26.md"
+    },
+    {
+      "basename": "Clase 26-8-26",
+      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Organizacion del Computador II/Apuntes/Clase 26-8-26.md"
+    },
+    {
       "basename": "Basico pull",
       "path": "10_Estudios/01_Autodidacta/Git/Basico pull.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Codigo Godot",
       "path": "30_Código/01_Godot/Codigo Godot.md"
-    },
-    {
-      "basename": "Clase 19-8-26",
-      "path": "10_Estudios/02_Universidad/Cuatrimestre _Actual/Organizacion del Computador II/Apuntes/Clase 19-8-26.md"
     },
     {
       "basename": "Repaso - Organización del Computador I - Repaso - OC 2023",
@@ -191,14 +199,6 @@
     {
       "basename": "Unidad 4 Compuertas Lógicas_V24",
       "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/Unidad 4 Compuertas Lógicas_V24.pdf"
-    },
-    {
-      "basename": "V1_COM1- Introduccion-Cómo y Qué_2022_1C",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/PDFs/V1_COM1- Introduccion-Cómo y Qué_2022_1C.pdf"
-    },
-    {
-      "basename": "Entrada-Salida Interrupciones",
-      "path": "10_Estudios/02_Universidad/Archivo_Materias/Orga/ARM/Entrada-Salida Interrupciones.md"
     }
   ],
   "omittedPaths": [],
