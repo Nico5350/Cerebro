@@ -7,7 +7,7 @@ estado:
   - Pendiente
 puntuacion:
 fechas_inicio:
-fecha_terminado:
+fecha_terminado: 4/9/2026
 tags:
   - lectura
 ---

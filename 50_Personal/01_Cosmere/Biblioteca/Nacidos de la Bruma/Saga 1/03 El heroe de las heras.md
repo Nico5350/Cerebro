@@ -7,7 +7,7 @@ saga: Nacidos de la Bruma
 estado:
   - Terminado
 puntuacion: "9"
-fecha_terminado: 21/01/20
+fecha_terminado: 21/01/2026
 tags:
   - lectura
 ---
