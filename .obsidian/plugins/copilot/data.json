@@ -582,7 +582,7 @@
       "info": {
         "id": "opus",
         "displayName": "Opus",
-        "description": "Opus 5 · Best for everyday, complex tasks · ~2× usage vs Sonnet"
+        "description": "Opus 5 · Best for everyday, complex tasks"
       },
       "configuredModelId": "676356c8-e37f-47a1-be1f-6105ccad8bdb",
       "configuredAt": 1788385248912
