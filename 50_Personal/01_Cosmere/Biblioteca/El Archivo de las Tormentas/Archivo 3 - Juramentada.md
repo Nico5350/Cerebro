@@ -11,8 +11,11 @@ fecha_terminado: 25/6/2026
 tags:
   - lectura
 ---
+<<<<<<< HEAD
 #  Archivo 3 - Juramentada
 ## [[Roshar]]
+=======
+>>>>>>> origin/main
 
 > [!INFO] Sinopsis
 > Tras la caída de Alezkar, Dalinar debe forjar el Pacto de las Torres para unir a los reinos humanos de Roshar contra Odium antes de que estalle la Verdadera Desolación. Visiones y flashbacks revelan el brutal pasado del "Espina Negra": un general sediento de guerra cuyas decisiones llevaron a la muerte de su esposa Evi y fracturaron su relación con su hermano Gavilar. Kaladin regresa a Piedralar a enterrar a su abuelo y debe decidir si puede proteger incluso a quienes alguna vez lo esclavizaron. Shallan y Adolin lideran una misión a Kholinar para reclamar la ciudad y activar su Puerta Jurada, y descubren que uno de los Irrecordables, Yelig-nar, ha poseído a la reina Aesudan. En todo Roshar, los parshmenios despiertan a los ritmos de una tormenta enemiga y se convierten en soldados de Odium.
