@@ -3,8 +3,8 @@ name: copilot-fetch-x
 description: Fetch the content of an X (Twitter) post using Copilot Plus. Use when the user shares an x.com or twitter.com URL and wants its text or context. Requires an active Copilot Plus license.
 license: Copilot Plus
 metadata:
-  copilot-enabled-agents: claude, codex, opencode
-  copilot-builtin-version: "5"
+  copilot-enabled-agents: opencode, claude, codex
+  copilot-builtin-version: "6"
 ---
 
 # Copilot fetch X
@@ -41,3 +41,4 @@ the request when you have one (otherwise tell the user it's unavailable) — nev
 refuse or block the user. Only mention upgrading or renewing Copilot Plus when
 the script's message explicitly invites it, and keep any such note short and
 friendly.
+
