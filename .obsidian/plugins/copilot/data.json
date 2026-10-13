@@ -341,7 +341,15 @@
   "inlineEditCommands": [],
   "projectList": [],
   "lastDismissedVersion": null,
+<<<<<<< HEAD
   "lastShownStartupVersion": "4.0.14",
+=======
+<<<<<<< HEAD
+  "lastShownStartupVersion": "4.0.13",
+=======
+  "lastShownStartupVersion": "4.0.12",
+>>>>>>> origin/main
+>>>>>>> origin/main
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
