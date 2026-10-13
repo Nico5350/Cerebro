@@ -341,7 +341,7 @@
   "inlineEditCommands": [],
   "projectList": [],
   "lastDismissedVersion": null,
-  "lastShownStartupVersion": "4.0.12",
+  "lastShownStartupVersion": "4.0.14",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
@@ -415,7 +415,7 @@
       "info": {
         "id": "default",
         "displayName": "Default (recommended)",
-        "description": "Sonnet 5 · Efficient for routine tasks"
+        "description": "Use the default model (currently Opus 5 (1M context)) · $5/$25 per Mtok"
       },
       "configuredModelId": "8ac40a19-1c53-4f7f-9d7b-82addfe176b0",
       "configuredAt": 1788385248910
@@ -425,7 +425,7 @@
       "info": {
         "id": "sonnet",
         "displayName": "Sonnet",
-        "description": "Sonnet 5 · Efficient for routine tasks"
+        "description": "Sonnet 5 · Efficient for routine tasks · $2/$10 per Mtok"
       },
       "configuredModelId": "9d5c5275-01f6-454c-be44-54561cb8d1d3",
       "configuredAt": 1788385248911
@@ -435,7 +435,7 @@
       "info": {
         "id": "claude-fable-5-1[1m]",
         "displayName": "Fable",
-        "description": "Fable 5.1 · Most capable for your hardest and longest-running tasks · Requires usage credits"
+        "description": "Fable 5.1 · Most capable for your hardest and longest-running tasks"
       },
       "configuredModelId": "1ea8d4eb-db0c-49c0-9481-1a7134c281ed",
       "configuredAt": 1788385248911
@@ -443,22 +443,22 @@
     {
       "providerId": "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e",
       "info": {
-        "id": "opus",
-        "displayName": "Opus",
-        "description": "Opus 5 · Best for everyday, complex tasks"
+        "id": "haiku",
+        "displayName": "Haiku",
+        "description": "Haiku 4.5 · Fastest for quick answers · $1/$5 per Mtok"
       },
-      "configuredModelId": "676356c8-e37f-47a1-be1f-6105ccad8bdb",
+      "configuredModelId": "4d65c62e-1914-4a96-96d4-df038fa2d3fe",
       "configuredAt": 1788385248912
     },
     {
       "providerId": "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e",
       "info": {
-        "id": "haiku",
-        "displayName": "Haiku",
-        "description": "Haiku 4.5 · Fastest for quick answers"
+        "id": "opus[1m]",
+        "displayName": "Opus (1M context)",
+        "description": "Opus 5 with 1M context · Best for everyday, complex tasks · $5/$25 per Mtok"
       },
-      "configuredModelId": "4d65c62e-1914-4a96-96d4-df038fa2d3fe",
-      "configuredAt": 1788385248912
+      "configuredModelId": "66b8a7bf-00f8-4a50-8b20-7017b9158284",
+      "configuredAt": 1791918166568
     }
   ],
   "backends": {
@@ -467,7 +467,6 @@
         "8ac40a19-1c53-4f7f-9d7b-82addfe176b0",
         "9d5c5275-01f6-454c-be44-54561cb8d1d3",
         "1ea8d4eb-db0c-49c0-9481-1a7134c281ed",
-        "676356c8-e37f-47a1-be1f-6105ccad8bdb",
         "4d65c62e-1914-4a96-96d4-df038fa2d3fe"
       ]
     }
@@ -492,25 +491,6 @@
         },
         "limits": {
           "context": 1048576
-        }
-      },
-      {
-        "id": "kimi-k2.6",
-        "displayName": "Kimi K2.6",
-        "description": "Good for long-running reasoning tasks.",
-        "toolCall": true,
-        "reasoning": true,
-        "reasoningEfforts": [],
-        "modalities": {
-          "input": [
-            "text"
-          ],
-          "output": [
-            "text"
-          ]
-        },
-        "limits": {
-          "context": 262144
         }
       },
       {
