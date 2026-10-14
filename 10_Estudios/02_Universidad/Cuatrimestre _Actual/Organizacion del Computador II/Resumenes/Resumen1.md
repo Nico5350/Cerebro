@@ -2,6 +2,7 @@
 
 ## Dos formas de diseñar una micro-arquitectura
 ### RISC
+
 utiliza instrucciones simples y rapidas que se ejecutan en un solo ciclo, es mas eficiente energeticamente.Utiliza mas registros. menos modos direcionamiento mayor complejidad en el compilador.Sacrifica cantidad de instrucciones para reducir la complejidad y cantidad de instrucciones-
 - intrucciones menos complejas
 - De proposito general

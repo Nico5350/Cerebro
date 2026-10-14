@@ -1,5 +1,5 @@
 {
-  "userId": "e2a70a54-b8b9-4890-929a-1bc2ee75ca64",
+  "userId": "06d970b2-39cb-47a6-b773-ac7f1f0bed6c",
   "isPaidUser": false,
   "isPlusUser": false,
   "entitlementToken": "",
@@ -53,7 +53,6 @@
       "capabilities": [
         "vision"
       ],
-      "projectEnabled": false,
       "apiKey": ""
     },
     {
@@ -65,7 +64,6 @@
       "capabilities": [
         "vision"
       ],
-      "projectEnabled": true,
       "apiKey": ""
     },
     {
@@ -91,40 +89,7 @@
       "apiKey": ""
     },
     {
-      "name": "gpt-5.4",
-      "provider": "openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "core": true,
-      "capabilities": [
-        "vision"
-      ],
-      "apiKey": ""
-    },
-    {
-      "name": "gpt-5-mini",
-      "provider": "openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "core": true,
-      "capabilities": [
-        "vision"
-      ],
-      "apiKey": ""
-    },
-    {
-      "name": "gpt-5.2",
-      "provider": "openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "core": true,
-      "capabilities": [
-        "vision"
-      ],
-      "apiKey": ""
-    },
-    {
-      "name": "google/gemini-3-flash-preview",
+      "name": "google/gemini-3.5-flash",
       "provider": "openrouterai",
       "enabled": true,
       "isBuiltIn": true,
@@ -135,9 +100,51 @@
       "apiKey": ""
     },
     {
+      "name": "claude-sonnet-4-6",
+      "provider": "anthropic",
+      "enabled": true,
+      "isBuiltIn": true,
+      "capabilities": [
+        "vision",
+        "reasoning"
+      ],
+      "apiKey": ""
+    },
+    {
+      "name": "gemini-3.5-flash",
+      "provider": "google",
+      "enabled": true,
+      "isBuiltIn": true,
+      "capabilities": [
+        "vision",
+        "reasoning"
+      ],
+      "apiKey": ""
+    },
+    {
+      "name": "gemini-3.1-flash-lite",
+      "provider": "google",
+      "enabled": true,
+      "isBuiltIn": true,
+      "capabilities": [
+        "vision"
+      ],
+      "apiKey": ""
+    },
+    {
+      "name": "gemini-2.5-flash",
+      "provider": "google",
+      "enabled": true,
+      "isBuiltIn": true,
+      "capabilities": [
+        "vision"
+      ],
+      "apiKey": ""
+    },
+    {
       "name": "google/gemini-3.1-pro-preview",
       "provider": "openrouterai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
         "vision",
@@ -148,58 +155,53 @@
     {
       "name": "google/gemini-2.5-pro",
       "provider": "openrouterai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": false,
-      "projectEnabled": true,
       "capabilities": [
         "vision"
       ],
       "apiKey": ""
     },
     {
-      "name": "openai/gpt-5.2",
+      "name": "openai/gpt-5.5",
       "provider": "openrouterai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": false,
-      "projectEnabled": true,
       "capabilities": [
         "vision"
       ],
       "apiKey": ""
     },
     {
-      "name": "openai/gpt-5-mini",
+      "name": "openai/gpt-5.4-mini",
       "provider": "openrouterai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": false,
-      "projectEnabled": true,
       "capabilities": [
         "vision"
       ],
       "apiKey": ""
     },
     {
-      "name": "grok-4-1-fast",
+      "name": "grok-4.3",
       "provider": "xai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": false,
-      "projectEnabled": true,
       "capabilities": [
         "vision"
       ],
       "apiKey": ""
     },
     {
-      "name": "x-ai/grok-4.1-fast",
+      "name": "x-ai/grok-4.3",
       "provider": "openrouterai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": false,
-      "projectEnabled": true,
       "capabilities": [
         "vision"
       ],
@@ -208,10 +210,9 @@
     {
       "name": "gpt-4.1",
       "provider": "openai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": false,
-      "projectEnabled": true,
       "capabilities": [
         "vision"
       ],
@@ -220,19 +221,18 @@
     {
       "name": "gpt-4.1-mini",
       "provider": "openai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": false,
-      "projectEnabled": true,
       "capabilities": [
         "vision"
       ],
       "apiKey": ""
     },
     {
-      "name": "claude-opus-4-6",
+      "name": "claude-opus-4-7",
       "provider": "anthropic",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
         "vision",
@@ -241,20 +241,9 @@
       "apiKey": ""
     },
     {
-      "name": "claude-sonnet-4-5-20250929",
+      "name": "claude-haiku-4-5",
       "provider": "anthropic",
-      "enabled": true,
-      "isBuiltIn": true,
-      "capabilities": [
-        "vision",
-        "reasoning"
-      ],
-      "apiKey": ""
-    },
-    {
-      "name": "gemini-3-flash-preview",
-      "provider": "google",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
         "vision",
@@ -265,7 +254,7 @@
     {
       "name": "gemini-3.1-pro-preview",
       "provider": "google",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
         "vision",
@@ -274,22 +263,10 @@
       "apiKey": ""
     },
     {
-      "name": "gemini-2.5-flash",
-      "provider": "google",
-      "enabled": true,
-      "isBuiltIn": true,
-      "projectEnabled": true,
-      "capabilities": [
-        "vision"
-      ],
-      "apiKey": ""
-    },
-    {
       "name": "gemini-2.5-pro",
       "provider": "google",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
-      "projectEnabled": true,
       "capabilities": [
         "vision"
       ],
@@ -298,14 +275,14 @@
     {
       "name": "deepseek-chat",
       "provider": "deepseek",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "apiKey": ""
     },
     {
       "name": "deepseek-reasoner",
       "provider": "deepseek",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
         "reasoning"
@@ -341,15 +318,7 @@
   "inlineEditCommands": [],
   "projectList": [],
   "lastDismissedVersion": null,
-<<<<<<< HEAD
   "lastShownStartupVersion": "4.0.14",
-=======
-<<<<<<< HEAD
-  "lastShownStartupVersion": "4.0.13",
-=======
-  "lastShownStartupVersion": "4.0.12",
->>>>>>> origin/main
->>>>>>> origin/main
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
@@ -367,7 +336,7 @@
   "supadataApiKey": "",
   "docProcessorBackend": "plus",
   "enableLexicalBoosts": true,
-  "suggestedDefaultCommands": true,
+  "suggestedDefaultCommands": false,
   "autonomousAgentEnabledToolIds": [
     "localSearch",
     "readNote",
@@ -404,7 +373,7 @@
     }
   },
   "providers": {
-    "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e": {
+    "73faf6b2-b05b-458f-b98c-0465bd2f54ab": {
       "providerType": "anthropic",
       "displayName": "Claude",
       "origin": {
@@ -412,70 +381,71 @@
         "agentType": "claude"
       },
       "requiresApiKey": false,
-      "providerId": "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e",
-      "addedAt": 1788385248356,
+      "providerId": "73faf6b2-b05b-458f-b98c-0465bd2f54ab",
+      "addedAt": 1792003163667,
       "apiKeyKeychainId": null
     }
   },
   "configuredModels": [
     {
-      "providerId": "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e",
+      "providerId": "73faf6b2-b05b-458f-b98c-0465bd2f54ab",
       "info": {
         "id": "default",
         "displayName": "Default (recommended)",
         "description": "Use the default model (currently Opus 5 (1M context)) · $5/$25 per Mtok"
       },
-      "configuredModelId": "8ac40a19-1c53-4f7f-9d7b-82addfe176b0",
-      "configuredAt": 1788385248910
+      "configuredModelId": "92be995b-fe1b-4493-91ed-1e6d5a259393",
+      "configuredAt": 1792003163824
     },
     {
-      "providerId": "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e",
-      "info": {
-        "id": "sonnet",
-        "displayName": "Sonnet",
-        "description": "Sonnet 5 · Efficient for routine tasks · $2/$10 per Mtok"
-      },
-      "configuredModelId": "9d5c5275-01f6-454c-be44-54561cb8d1d3",
-      "configuredAt": 1788385248911
-    },
-    {
-      "providerId": "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e",
-      "info": {
-        "id": "claude-fable-5-1[1m]",
-        "displayName": "Fable",
-        "description": "Fable 5.1 · Most capable for your hardest and longest-running tasks"
-      },
-      "configuredModelId": "1ea8d4eb-db0c-49c0-9481-1a7134c281ed",
-      "configuredAt": 1788385248911
-    },
-    {
-      "providerId": "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e",
-      "info": {
-        "id": "haiku",
-        "displayName": "Haiku",
-        "description": "Haiku 4.5 · Fastest for quick answers · $1/$5 per Mtok"
-      },
-      "configuredModelId": "4d65c62e-1914-4a96-96d4-df038fa2d3fe",
-      "configuredAt": 1788385248912
-    },
-    {
-      "providerId": "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e",
+      "providerId": "73faf6b2-b05b-458f-b98c-0465bd2f54ab",
       "info": {
         "id": "opus[1m]",
         "displayName": "Opus (1M context)",
         "description": "Opus 5 with 1M context · Best for everyday, complex tasks · $5/$25 per Mtok"
       },
-      "configuredModelId": "66b8a7bf-00f8-4a50-8b20-7017b9158284",
-      "configuredAt": 1791918166568
+      "configuredModelId": "66d2e78f-fc76-4637-a999-6a930b956d93",
+      "configuredAt": 1792003163824
+    },
+    {
+      "providerId": "73faf6b2-b05b-458f-b98c-0465bd2f54ab",
+      "info": {
+        "id": "claude-fable-5-1[1m]",
+        "displayName": "Fable",
+        "description": "Fable 5.1 · Most capable for your hardest and longest-running tasks"
+      },
+      "configuredModelId": "8f00af91-b994-4b22-8af7-316b04568bfa",
+      "configuredAt": 1792003163824
+    },
+    {
+      "providerId": "73faf6b2-b05b-458f-b98c-0465bd2f54ab",
+      "info": {
+        "id": "sonnet",
+        "displayName": "Sonnet",
+        "description": "Sonnet 5 · Efficient for routine tasks · $2/$10 per Mtok"
+      },
+      "configuredModelId": "4c7bd7b0-f20e-4593-b3fb-9211b5e0464e",
+      "configuredAt": 1792003163825
+    },
+    {
+      "providerId": "73faf6b2-b05b-458f-b98c-0465bd2f54ab",
+      "info": {
+        "id": "haiku",
+        "displayName": "Haiku",
+        "description": "Haiku 4.5 · Fastest for quick answers · $1/$5 per Mtok"
+      },
+      "configuredModelId": "61950cec-6f3e-4933-8d93-44e49206d9b6",
+      "configuredAt": 1792003163825
     }
   ],
   "backends": {
     "claude": {
       "enabledModels": [
-        "8ac40a19-1c53-4f7f-9d7b-82addfe176b0",
-        "9d5c5275-01f6-454c-be44-54561cb8d1d3",
-        "1ea8d4eb-db0c-49c0-9481-1a7134c281ed",
-        "4d65c62e-1914-4a96-96d4-df038fa2d3fe"
+        "92be995b-fe1b-4493-91ed-1e6d5a259393",
+        "66d2e78f-fc76-4637-a999-6a930b956d93",
+        "8f00af91-b994-4b22-8af7-316b04568bfa",
+        "4c7bd7b0-f20e-4593-b3fb-9211b5e0464e",
+        "61950cec-6f3e-4933-8d93-44e49206d9b6"
       ]
     }
   },
@@ -653,19 +623,7 @@
       "minimax-m3"
     ]
   },
-  "temperature": 0.1,
-  "showSuggestedPrompts": true,
-  "autonomousAgentMaxIterations": 4,
-  "autoIncludeTextSelection": false,
-  "autoAddSelectionToContext": false,
-  "generateAIChatTitleOnSave": true,
-  "showRelevantNotes": true,
-  "projectListSortStrategy": "recent",
-  "selfHostModeValidatedAt": null,
-  "selfHostValidationCount": 0,
-  "selfHostUrl": "",
-  "selfHostApiKey": "",
+  "miyoConnectionMode": "local",
   "_keychainVaultId": "e98790b1",
-  "settingsVersion": 14,
-  "miyoConnectionMode": "local"
+  "settingsVersion": 14
 }
