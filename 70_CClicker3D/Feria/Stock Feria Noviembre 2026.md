@@ -3,7 +3,7 @@
 - [ ] Manteca x4
 - [ ] Dragon flexi x4
 - [ ] Clicker 1/2/3 Teclas x4 
-- [ ] Flexagono x4
+- [ ] [[Flexagono|Flexagono]] x4
 - [ ] Spinner x4
 - [ ] Giroscopio x2
 - [ ] Medusa flexi x2

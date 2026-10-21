@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b2777488b9a91c6a","x":-125,"y":63,"width":250,"height":60,"type":"text","text":""},
+		{"id":"7d13f427dc732209","x":-200,"y":-107,"width":400,"height":400,"type":"file","file":"70_CClicker3D/CATALOGO.pdf"},
+		{"id":"d3f25a507978310c","x":-640,"y":80,"width":250,"height":50,"type":"text","text":"este es ek catalogo\n"}
+	],
+	"edges":[
+		{"id":"8a9c8e9b0cb0cede","fromNode":"d3f25a507978310c","fromSide":"bottom","toNode":"7d13f427dc732209","toSide":"left"},
+		{"id":"3b767cedbe923e77","fromNode":"d3f25a507978310c","fromSide":"top","toNode":"7d13f427dc732209","toSide":"top"}
+	]
+}
