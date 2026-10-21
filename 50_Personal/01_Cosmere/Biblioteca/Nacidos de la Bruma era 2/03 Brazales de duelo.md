@@ -6,9 +6,9 @@ planeta: Scadrial
 saga: Nacidos de la Bruma era 2
 estado:
   - Terminado
-puntuacion: "0"
+puntuacion: "9"
 fecha_inicio: 5/10/2026
-fecha_terminado: 5/10/2026
+fecha_terminado: 16/10/2026
 tags:
   - lectura
 ---
