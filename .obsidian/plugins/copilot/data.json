@@ -1,5 +1,5 @@
 {
-  "userId": "e2a70a54-b8b9-4890-929a-1bc2ee75ca64",
+  "userId": "c3be68d0-b0fc-468a-af52-6ba0a82f3a64",
   "isPaidUser": false,
   "isPlusUser": false,
   "entitlementToken": "",
@@ -53,7 +53,6 @@
       "capabilities": [
         "vision"
       ],
-      "projectEnabled": false,
       "apiKey": ""
     },
     {
@@ -65,7 +64,6 @@
       "capabilities": [
         "vision"
       ],
-      "projectEnabled": true,
       "apiKey": ""
     },
     {
@@ -91,40 +89,7 @@
       "apiKey": ""
     },
     {
-      "name": "gpt-5.4",
-      "provider": "openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "core": true,
-      "capabilities": [
-        "vision"
-      ],
-      "apiKey": ""
-    },
-    {
-      "name": "gpt-5-mini",
-      "provider": "openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "core": true,
-      "capabilities": [
-        "vision"
-      ],
-      "apiKey": ""
-    },
-    {
-      "name": "gpt-5.2",
-      "provider": "openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "core": true,
-      "capabilities": [
-        "vision"
-      ],
-      "apiKey": ""
-    },
-    {
-      "name": "google/gemini-3-flash-preview",
+      "name": "google/gemini-3.5-flash",
       "provider": "openrouterai",
       "enabled": true,
       "isBuiltIn": true,
@@ -135,9 +100,51 @@
       "apiKey": ""
     },
     {
+      "name": "claude-sonnet-4-6",
+      "provider": "anthropic",
+      "enabled": true,
+      "isBuiltIn": true,
+      "capabilities": [
+        "vision",
+        "reasoning"
+      ],
+      "apiKey": ""
+    },
+    {
+      "name": "gemini-3.5-flash",
+      "provider": "google",
+      "enabled": true,
+      "isBuiltIn": true,
+      "capabilities": [
+        "vision",
+        "reasoning"
+      ],
+      "apiKey": ""
+    },
+    {
+      "name": "gemini-3.1-flash-lite",
+      "provider": "google",
+      "enabled": true,
+      "isBuiltIn": true,
+      "capabilities": [
+        "vision"
+      ],
+      "apiKey": ""
+    },
+    {
+      "name": "gemini-2.5-flash",
+      "provider": "google",
+      "enabled": true,
+      "isBuiltIn": true,
+      "capabilities": [
+        "vision"
+      ],
+      "apiKey": ""
+    },
+    {
       "name": "google/gemini-3.1-pro-preview",
       "provider": "openrouterai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
         "vision",
@@ -148,58 +155,53 @@
     {
       "name": "google/gemini-2.5-pro",
       "provider": "openrouterai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": false,
-      "projectEnabled": true,
       "capabilities": [
         "vision"
       ],
       "apiKey": ""
     },
     {
-      "name": "openai/gpt-5.2",
+      "name": "openai/gpt-5.5",
       "provider": "openrouterai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": false,
-      "projectEnabled": true,
       "capabilities": [
         "vision"
       ],
       "apiKey": ""
     },
     {
-      "name": "openai/gpt-5-mini",
+      "name": "openai/gpt-5.4-mini",
       "provider": "openrouterai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": false,
-      "projectEnabled": true,
       "capabilities": [
         "vision"
       ],
       "apiKey": ""
     },
     {
-      "name": "grok-4-1-fast",
+      "name": "grok-4.3",
       "provider": "xai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": false,
-      "projectEnabled": true,
       "capabilities": [
         "vision"
       ],
       "apiKey": ""
     },
     {
-      "name": "x-ai/grok-4.1-fast",
+      "name": "x-ai/grok-4.3",
       "provider": "openrouterai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": false,
-      "projectEnabled": true,
       "capabilities": [
         "vision"
       ],
@@ -208,10 +210,9 @@
     {
       "name": "gpt-4.1",
       "provider": "openai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": false,
-      "projectEnabled": true,
       "capabilities": [
         "vision"
       ],
@@ -220,19 +221,18 @@
     {
       "name": "gpt-4.1-mini",
       "provider": "openai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": false,
-      "projectEnabled": true,
       "capabilities": [
         "vision"
       ],
       "apiKey": ""
     },
     {
-      "name": "claude-opus-4-6",
+      "name": "claude-opus-4-7",
       "provider": "anthropic",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
         "vision",
@@ -241,20 +241,9 @@
       "apiKey": ""
     },
     {
-      "name": "claude-sonnet-4-5-20250929",
+      "name": "claude-haiku-4-5",
       "provider": "anthropic",
-      "enabled": true,
-      "isBuiltIn": true,
-      "capabilities": [
-        "vision",
-        "reasoning"
-      ],
-      "apiKey": ""
-    },
-    {
-      "name": "gemini-3-flash-preview",
-      "provider": "google",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
         "vision",
@@ -265,7 +254,7 @@
     {
       "name": "gemini-3.1-pro-preview",
       "provider": "google",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
         "vision",
@@ -274,22 +263,10 @@
       "apiKey": ""
     },
     {
-      "name": "gemini-2.5-flash",
-      "provider": "google",
-      "enabled": true,
-      "isBuiltIn": true,
-      "projectEnabled": true,
-      "capabilities": [
-        "vision"
-      ],
-      "apiKey": ""
-    },
-    {
       "name": "gemini-2.5-pro",
       "provider": "google",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
-      "projectEnabled": true,
       "capabilities": [
         "vision"
       ],
@@ -298,14 +275,14 @@
     {
       "name": "deepseek-chat",
       "provider": "deepseek",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "apiKey": ""
     },
     {
       "name": "deepseek-reasoner",
       "provider": "deepseek",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
         "reasoning"
@@ -341,11 +318,7 @@
   "inlineEditCommands": [],
   "projectList": [],
   "lastDismissedVersion": null,
-<<<<<<< HEAD
-  "lastShownStartupVersion": "4.0.13",
-=======
-  "lastShownStartupVersion": "4.0.12",
->>>>>>> origin/main
+  "lastShownStartupVersion": "4.0.15",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
@@ -363,7 +336,7 @@
   "supadataApiKey": "",
   "docProcessorBackend": "plus",
   "enableLexicalBoosts": true,
-  "suggestedDefaultCommands": true,
+  "suggestedDefaultCommands": false,
   "autonomousAgentEnabledToolIds": [
     "localSearch",
     "readNote",
@@ -399,83 +372,9 @@
       "folder": "copilot/skills"
     }
   },
-  "providers": {
-    "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e": {
-      "providerType": "anthropic",
-      "displayName": "Claude",
-      "origin": {
-        "kind": "agent",
-        "agentType": "claude"
-      },
-      "requiresApiKey": false,
-      "providerId": "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e",
-      "addedAt": 1788385248356,
-      "apiKeyKeychainId": null
-    }
-  },
-  "configuredModels": [
-    {
-      "providerId": "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e",
-      "info": {
-        "id": "default",
-        "displayName": "Default (recommended)",
-        "description": "Sonnet 5 · Efficient for routine tasks"
-      },
-      "configuredModelId": "8ac40a19-1c53-4f7f-9d7b-82addfe176b0",
-      "configuredAt": 1788385248910
-    },
-    {
-      "providerId": "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e",
-      "info": {
-        "id": "sonnet",
-        "displayName": "Sonnet",
-        "description": "Sonnet 5 · Efficient for routine tasks"
-      },
-      "configuredModelId": "9d5c5275-01f6-454c-be44-54561cb8d1d3",
-      "configuredAt": 1788385248911
-    },
-    {
-      "providerId": "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e",
-      "info": {
-        "id": "claude-fable-5-1[1m]",
-        "displayName": "Fable",
-        "description": "Fable 5.1 · Most capable for your hardest and longest-running tasks · Requires usage credits"
-      },
-      "configuredModelId": "1ea8d4eb-db0c-49c0-9481-1a7134c281ed",
-      "configuredAt": 1788385248911
-    },
-    {
-      "providerId": "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e",
-      "info": {
-        "id": "opus",
-        "displayName": "Opus",
-        "description": "Opus 5 · Best for everyday, complex tasks"
-      },
-      "configuredModelId": "676356c8-e37f-47a1-be1f-6105ccad8bdb",
-      "configuredAt": 1788385248912
-    },
-    {
-      "providerId": "bc0a7721-6cd6-4682-9fb8-e0ea6edd034e",
-      "info": {
-        "id": "haiku",
-        "displayName": "Haiku",
-        "description": "Haiku 4.5 · Fastest for quick answers"
-      },
-      "configuredModelId": "4d65c62e-1914-4a96-96d4-df038fa2d3fe",
-      "configuredAt": 1788385248912
-    }
-  ],
-  "backends": {
-    "claude": {
-      "enabledModels": [
-        "8ac40a19-1c53-4f7f-9d7b-82addfe176b0",
-        "9d5c5275-01f6-454c-be44-54561cb8d1d3",
-        "1ea8d4eb-db0c-49c0-9481-1a7134c281ed",
-        "676356c8-e37f-47a1-be1f-6105ccad8bdb",
-        "4d65c62e-1914-4a96-96d4-df038fa2d3fe"
-      ]
-    }
-  },
+  "providers": {},
+  "configuredModels": [],
+  "backends": {},
   "copilotPlusCatalog": {
     "models": [
       {
@@ -650,19 +549,7 @@
       "minimax-m3"
     ]
   },
-  "temperature": 0.1,
-  "showSuggestedPrompts": true,
-  "autonomousAgentMaxIterations": 4,
-  "autoIncludeTextSelection": false,
-  "autoAddSelectionToContext": false,
-  "generateAIChatTitleOnSave": true,
-  "showRelevantNotes": true,
-  "projectListSortStrategy": "recent",
-  "selfHostModeValidatedAt": null,
-  "selfHostValidationCount": 0,
-  "selfHostUrl": "",
-  "selfHostApiKey": "",
-  "_keychainVaultId": "e98790b1",
-  "settingsVersion": 14,
-  "miyoConnectionMode": "local"
+  "miyoConnectionMode": "local",
+  "_keychainVaultId": "dd75f7f3",
+  "settingsVersion": 14
 }
