@@ -21,4 +21,4 @@ tags:
 ## 🔮 Sistemas de Magia y Lore 
 
 ---
- ## 🌌 Conexiones con el Cosmere ( 
+ ## 🌌 Conexiones con el Cosmere 

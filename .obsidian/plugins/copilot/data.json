@@ -1,5 +1,5 @@
 {
-  "userId": "c3be68d0-b0fc-468a-af52-6ba0a82f3a64",
+  "userId": "cd75fa5c-81e9-4caf-b17d-5bba88f2529c",
   "isPaidUser": false,
   "isPlusUser": false,
   "entitlementToken": "",
@@ -30,7 +30,6 @@
   "defaultSaveFolder": "copilot/copilot-conversations",
   "defaultConversationTag": "copilot-conversation",
   "autosaveChat": true,
-  "autoAddActiveContentToContext": true,
   "defaultOpenArea": "view",
   "defaultSendShortcut": "enter",
   "customPromptsFolder": "copilot/copilot-custom-prompts",
@@ -318,7 +317,7 @@
   "inlineEditCommands": [],
   "projectList": [],
   "lastDismissedVersion": null,
-  "lastShownStartupVersion": "4.0.15",
+  "lastShownStartupVersion": null,
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
@@ -326,6 +325,7 @@
   "enableMiyo": false,
   "enableMiyoSearchSkill": false,
   "miyoSearchAll": false,
+  "miyoExtraSearchFolders": [],
   "relevantNotesLiveUpdate": true,
   "miyoServerUrl": "",
   "selfHostSearchProvider": "firecrawl",
@@ -334,7 +334,7 @@
   "parallelApiKey": "",
   "exaApiKey": "",
   "supadataApiKey": "",
-  "docProcessorBackend": "plus",
+  "enableMiyoDocumentProcessing": true,
   "enableLexicalBoosts": true,
   "suggestedDefaultCommands": false,
   "autonomousAgentEnabledToolIds": [
@@ -365,11 +365,20 @@
     "activeBackend": "opencode",
     "backends": {},
     "debugFullFrames": true,
+    "offerFeedbackCards": true,
     "notificationSound": true,
     "notificationSoundId": "piano",
     "welcomeDismissed": false,
     "skills": {
-      "folder": "copilot/skills"
+      "folder": "copilot/skills",
+      "builtinPreferences": {
+        "copilot-web-search": {
+          "disabled": true
+        },
+        "copilot-web-fetch": {
+          "disabled": true
+        }
+      }
     }
   },
   "providers": {},
@@ -551,5 +560,5 @@
   },
   "miyoConnectionMode": "local",
   "_keychainVaultId": "dd75f7f3",
-  "settingsVersion": 14
+  "settingsVersion": 15
 }

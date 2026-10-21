@@ -5,10 +5,10 @@ universo: Cosmere
 planeta: Scadrial
 saga: Nacidos de la Bruma era 2
 estado:
-  - Activo
-puntuacion:
+  - Terminado
+puntuacion: "8"
 fecha_inicio: 20/09/2026
-fecha_terminado: 0/0/2026
+fecha_terminado: 5/10/2026
 tags:
   - lectura
 ---
