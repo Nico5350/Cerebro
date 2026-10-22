@@ -1,5 +1,5 @@
 {
-  "userId": "06d970b2-39cb-47a6-b773-ac7f1f0bed6c",
+  "userId": "cd75fa5c-81e9-4caf-b17d-5bba88f2529c",
   "isPaidUser": false,
   "isPlusUser": false,
   "entitlementToken": "",
@@ -317,7 +317,7 @@
   "inlineEditCommands": [],
   "projectList": [],
   "lastDismissedVersion": null,
-  "lastShownStartupVersion": "4.0.15",
+  "lastShownStartupVersion": null,
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
@@ -334,7 +334,7 @@
   "parallelApiKey": "",
   "exaApiKey": "",
   "supadataApiKey": "",
-  "enableMiyoDocumentProcessing": false,
+  "enableMiyoDocumentProcessing": true,
   "enableLexicalBoosts": true,
   "suggestedDefaultCommands": false,
   "autonomousAgentEnabledToolIds": [
@@ -370,86 +370,20 @@
     "notificationSoundId": "piano",
     "welcomeDismissed": false,
     "skills": {
-      "folder": "copilot/skills"
+      "folder": "copilot/skills",
+      "builtinPreferences": {
+        "copilot-web-search": {
+          "disabled": true
+        },
+        "copilot-web-fetch": {
+          "disabled": true
+        }
+      }
     }
   },
-  "providers": {
-    "73faf6b2-b05b-458f-b98c-0465bd2f54ab": {
-      "providerType": "anthropic",
-      "displayName": "Claude",
-      "origin": {
-        "kind": "agent",
-        "agentType": "claude"
-      },
-      "requiresApiKey": false,
-      "providerId": "73faf6b2-b05b-458f-b98c-0465bd2f54ab",
-      "addedAt": 1792003163667,
-      "apiKeyKeychainId": null
-    }
-  },
-  "configuredModels": [
-    {
-      "providerId": "73faf6b2-b05b-458f-b98c-0465bd2f54ab",
-      "info": {
-        "id": "default",
-        "displayName": "Default (recommended)",
-        "description": "Use the default model (currently Opus 5 (1M context)) · $5/$25 per Mtok"
-      },
-      "configuredModelId": "92be995b-fe1b-4493-91ed-1e6d5a259393",
-      "configuredAt": 1792003163824
-    },
-    {
-      "providerId": "73faf6b2-b05b-458f-b98c-0465bd2f54ab",
-      "info": {
-        "id": "opus[1m]",
-        "displayName": "Opus (1M context)",
-        "description": "Opus 5 with 1M context · Best for everyday, complex tasks · $5/$25 per Mtok"
-      },
-      "configuredModelId": "66d2e78f-fc76-4637-a999-6a930b956d93",
-      "configuredAt": 1792003163824
-    },
-    {
-      "providerId": "73faf6b2-b05b-458f-b98c-0465bd2f54ab",
-      "info": {
-        "id": "claude-fable-5-1[1m]",
-        "displayName": "Fable",
-        "description": "Fable 5.1 · Most capable for your hardest and longest-running tasks"
-      },
-      "configuredModelId": "8f00af91-b994-4b22-8af7-316b04568bfa",
-      "configuredAt": 1792003163824
-    },
-    {
-      "providerId": "73faf6b2-b05b-458f-b98c-0465bd2f54ab",
-      "info": {
-        "id": "sonnet",
-        "displayName": "Sonnet",
-        "description": "Sonnet 5 · Efficient for routine tasks · $2/$10 per Mtok"
-      },
-      "configuredModelId": "4c7bd7b0-f20e-4593-b3fb-9211b5e0464e",
-      "configuredAt": 1792003163825
-    },
-    {
-      "providerId": "73faf6b2-b05b-458f-b98c-0465bd2f54ab",
-      "info": {
-        "id": "haiku",
-        "displayName": "Haiku",
-        "description": "Haiku 4.5 · Fastest for quick answers · $1/$5 per Mtok"
-      },
-      "configuredModelId": "61950cec-6f3e-4933-8d93-44e49206d9b6",
-      "configuredAt": 1792003163825
-    }
-  ],
-  "backends": {
-    "claude": {
-      "enabledModels": [
-        "92be995b-fe1b-4493-91ed-1e6d5a259393",
-        "66d2e78f-fc76-4637-a999-6a930b956d93",
-        "8f00af91-b994-4b22-8af7-316b04568bfa",
-        "4c7bd7b0-f20e-4593-b3fb-9211b5e0464e",
-        "61950cec-6f3e-4933-8d93-44e49206d9b6"
-      ]
-    }
-  },
+  "providers": {},
+  "configuredModels": [],
+  "backends": {},
   "copilotPlusCatalog": {
     "models": [
       {
@@ -618,9 +552,7 @@
       "minimax-m3"
     ]
   },
-  "autoAddActiveContentToContext": true,
-  "docProcessorBackend": "plus",
   "miyoConnectionMode": "local",
-  "_keychainVaultId": "e98790b1",
+  "_keychainVaultId": "dd75f7f3",
   "settingsVersion": 15
 }
