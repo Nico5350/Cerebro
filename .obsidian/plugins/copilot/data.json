@@ -317,7 +317,7 @@
   "inlineEditCommands": [],
   "projectList": [],
   "lastDismissedVersion": null,
-  "lastShownStartupVersion": null,
+  "lastShownStartupVersion": "4.0.16",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
@@ -381,9 +381,83 @@
       }
     }
   },
-  "providers": {},
-  "configuredModels": [],
-  "backends": {},
+  "providers": {
+    "fb2e424b-c047-47fb-8bce-7650096e67e0": {
+      "providerType": "anthropic",
+      "displayName": "Claude",
+      "origin": {
+        "kind": "agent",
+        "agentType": "claude"
+      },
+      "requiresApiKey": false,
+      "providerId": "fb2e424b-c047-47fb-8bce-7650096e67e0",
+      "addedAt": 1792696164841,
+      "apiKeyKeychainId": null
+    }
+  },
+  "configuredModels": [
+    {
+      "providerId": "fb2e424b-c047-47fb-8bce-7650096e67e0",
+      "info": {
+        "id": "default",
+        "displayName": "Default (recommended)",
+        "description": "Use the default model (currently Opus 5 (1M context)) · $5/$25 per Mtok"
+      },
+      "configuredModelId": "fbfbd756-56a8-4b2f-a6e8-3271a233830f",
+      "configuredAt": 1792696164936
+    },
+    {
+      "providerId": "fb2e424b-c047-47fb-8bce-7650096e67e0",
+      "info": {
+        "id": "opus[1m]",
+        "displayName": "Opus (1M context)",
+        "description": "Opus 5 with 1M context · Best for everyday, complex tasks · $5/$25 per Mtok"
+      },
+      "configuredModelId": "7925fcf6-39c2-4402-9f70-9ba9666783ab",
+      "configuredAt": 1792696164937
+    },
+    {
+      "providerId": "fb2e424b-c047-47fb-8bce-7650096e67e0",
+      "info": {
+        "id": "claude-fable-5-1[1m]",
+        "displayName": "Fable",
+        "description": "Fable 5.1 · Most capable for your hardest and longest-running tasks"
+      },
+      "configuredModelId": "55284f5e-7c30-4a3f-a61d-d42798503d7d",
+      "configuredAt": 1792696164937
+    },
+    {
+      "providerId": "fb2e424b-c047-47fb-8bce-7650096e67e0",
+      "info": {
+        "id": "sonnet",
+        "displayName": "Sonnet",
+        "description": "Sonnet 5 · Efficient for routine tasks · $2/$10 per Mtok"
+      },
+      "configuredModelId": "adbd8fa3-e3b1-4d71-97f4-4120d9f585aa",
+      "configuredAt": 1792696164937
+    },
+    {
+      "providerId": "fb2e424b-c047-47fb-8bce-7650096e67e0",
+      "info": {
+        "id": "haiku",
+        "displayName": "Haiku",
+        "description": "Haiku 4.5 · Fastest for quick answers · $1/$5 per Mtok"
+      },
+      "configuredModelId": "b96942dc-3b5f-4837-8ef4-2645e9b7bc1d",
+      "configuredAt": 1792696164937
+    }
+  ],
+  "backends": {
+    "claude": {
+      "enabledModels": [
+        "fbfbd756-56a8-4b2f-a6e8-3271a233830f",
+        "7925fcf6-39c2-4402-9f70-9ba9666783ab",
+        "55284f5e-7c30-4a3f-a61d-d42798503d7d",
+        "adbd8fa3-e3b1-4d71-97f4-4120d9f585aa",
+        "b96942dc-3b5f-4837-8ef4-2645e9b7bc1d"
+      ]
+    }
+  },
   "copilotPlusCatalog": {
     "models": [
       {
